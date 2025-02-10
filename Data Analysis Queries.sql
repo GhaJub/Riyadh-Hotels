@@ -113,17 +113,18 @@ ORDER BY 'Total Bookings' DESC;
 
 --What is the Average price per hotel?
 SELECT hotel_name, 
-	AVG(price) AS 'AVG Price'
+	CAST(ROUND(AVG(price), 2) AS DECIMAL(10,2)) AS 'AVG Price'
 FROM HotelsData
 GROUP BY hotel_name
-ORDER BY 'AVG Price';
+ORDER BY AVG(price) DESC;
 
 
--- Name of all Sources and their count
+-- All Sources and their count
 SELECT source,
 	COUNT(*) AS Count
 FROM HotelsData
-GROUP BY source;
+GROUP BY source
+ORDER BY Count DESC;
 
 
 --How do prices vary based on booking platforms?
@@ -132,7 +133,7 @@ SELECT source,
 	MIN   (price) AS Min_Price,
 	MAX   (price) AS Max_Price,
 	AVG   (price) AS Avg_Price, 
-	STDEV (price) AS Price_Stdev -- Standard Deviation 
+    COALESCE(STDEV(price), 0) AS Price_Stdev -- Standard Deviation 
 FROM HotelsData
 WHERE source 
 	IN ('Fairmont','Prestigia.com','MakeMyTrip',

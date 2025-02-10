@@ -8,7 +8,7 @@ This project focuses on analyzing and cleaning hotel booking data in Riyadh usin
 
 #### Data Cleaning
 
- • Replaced NULL values with default values to avoid analytical inconsistencies.
+ • Replaced NULL values with default values to avoid analytical inconsistencies.<br>
  • Used placeholder values (e.g., -1 for missing numeric data, 1900-01-01 for missing dates).
  
 #### Data Transformation

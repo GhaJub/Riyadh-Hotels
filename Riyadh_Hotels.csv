@@ -1,0 +1,1091 @@
+hotel_id,hotel_name,SOURCE,price,base_price,checkIn,checkOut,count,rating,Info,latitude,longitude
+,,,,,,,,,,,
+15215188,Fairmont Riyadh,all.accor.com,1605,NA,2025-01-02,2025-01-03,220,4.5,NA2,24.808397,46.71805
+24143026,Joudyan Hotel,MakeMyTrip,588.75,472.5,2025-01-02,2025-01-03,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+26451032,The St. Regis Riyadh,StRegis.com,2220,NA,2025-01-02,2025-01-03,54,5,NA,NA,NA
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,750,750,2025-01-02,2025-01-03,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Booking.com,90,90,2025-01-02,2025-01-03,2,5,NA,NA,NA
+24143026,Joudyan Hotel,Booking.com,735,637.5,2025-01-29,2025-02-03,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,738.75,723.75,2025-01-29,2025-02-03,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Booking.com,86.25,75,2025-01-29,2025-02-03,2,5,NA,NA,NA
+26451032,The St. Regis Riyadh,StRegis.com,3933.75,NA,2025-01-29,2025-02-03,54,5,NA,NA,NA
+24143026,Joudyan Hotel,Booking.com,633.75,543.75,2024-12-23,2024-12-25,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,660,660,2024-12-23,2024-12-25,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Booking.com,82.5,71.25,2024-12-23,2024-12-25,2,5,NA,NA,NA
+27175878,Mena Hotel Nasiriah Riyadh,Booking.com,427.5,NA,2024-12-23,2024-12-25,1,5,NA,NA,NA
+24143026,Joudyan Hotel,Booking.com,780,671.25,2025-01-25,2025-01-28,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+26451032,The St. Regis Riyadh,StRegis.com,3761.25,NA,2025-01-25,2025-01-28,54,5,NA,NA,NA
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,502.5,502.5,2025-01-25,2025-01-28,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Booking.com,82.5,71.25,2025-01-25,2025-01-28,2,5,NA,NA,NA
+24143026,Joudyan Hotel,Booking.com,705,607.5,2025-01-05,2025-01-07,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+26451032,The St. Regis Riyadh,StRegis.com,2748.75,NA,2025-01-05,2025-01-07,54,5,NA,NA,NA
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,502.5,502.5,2025-01-05,2025-01-07,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Booking.com,82.5,71.25,2025-01-05,2025-01-07,2,5,NA,NA,NA
+24143026,Joudyan Hotel,Booking.com,735,641.25,2025-01-17,2025-01-21,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+27131550,Sands Inn Hostel,Booking.com,82.5,71.25,2025-01-17,2025-01-21,2,5,NA,NA,NA
+26059301,Damac Tower Riyadh Luxury Apartments,Vio.com,NA,708.75,2025-01-17,2025-01-21,1,5,NA,24.709423,46.67273
+26451032,The St. Regis Riyadh,StRegis.com,2636.25,NA,2025-01-10,2025-01-13,54,5,NA,NA,NA
+24143026,Joudyan Hotel,Booking.com,690,603.75,2025-01-10,2025-01-13,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,690,690,2025-01-10,2025-01-13,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Booking.com,86.25,71.25,2025-01-10,2025-01-13,2,5,NA,NA,NA
+24143026,Joudyan Hotel,Booking.com,735,633.75,2025-01-25,2025-01-27,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+26451032,The St. Regis Riyadh,StRegis.com,2748.75,NA,2025-01-25,2025-01-27,54,5,NA,NA,NA
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,502.5,502.5,2025-01-25,2025-01-27,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Booking.com,82.5,71.25,2025-01-25,2025-01-27,2,5,NA,NA,NA
+26451032,The St. Regis Riyadh,StRegis.com,3255,NA,2025-01-06,2025-01-10,54,5,NA,NA,NA
+24143026,Joudyan Hotel,Booking.com,678.75,585,2025-01-06,2025-01-10,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,506.25,506.25,2025-01-06,2025-01-10,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Booking.com,82.5,71.25,2025-01-06,2025-01-10,2,5,NA,NA,NA
+24143026,Joudyan Hotel,Booking.com,963.75,832.5,2025-02-10,2025-02-12,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,502.5,502.5,2025-02-10,2025-02-12,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Booking.com,82.5,71.25,2025-02-10,2025-02-12,2,5,NA,NA,NA
+26451032,The St. Regis Riyadh,StRegis.com,5306.25,NA,2025-02-10,2025-02-12,54,5,NA,NA,NA
+24143026,Joudyan Hotel,Booking.com,963.75,832.5,2025-02-16,2025-02-18,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+26451032,The St. Regis Riyadh,StRegis.com,3423.75,NA,2025-02-16,2025-02-18,54,5,NA,NA,NA
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,502.5,502.5,2025-02-16,2025-02-18,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Booking.com,82.5,71.25,2025-02-16,2025-02-18,2,5,NA,NA,NA
+24143026,Joudyan Hotel,Booking.com,690,592.5,2025-01-15,2025-01-18,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,502.5,502.5,2025-01-15,2025-01-18,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Booking.com,90,75,2025-01-15,2025-01-18,2,5,NA,NA,NA
+24143026,Joudyan Hotel,Booking.com,963.75,832.5,2025-02-02,2025-02-04,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+26451032,The St. Regis Riyadh,StRegis.com,7327.5,NA,2025-02-02,2025-02-04,54,5,NA,NA,NA
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,502.5,502.5,2025-02-02,2025-02-04,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Booking.com,82.5,71.25,2025-02-02,2025-02-04,2,5,NA,NA,NA
+24143026,Joudyan Hotel,Booking.com,963.75,840,2025-02-05,2025-02-06,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+26451032,The St. Regis Riyadh,StRegis.com,3375,NA,2025-02-05,2025-02-06,54,5,NA,NA,NA
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,720,720,2025-02-05,2025-02-06,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Booking.com,82.5,82.5,2025-02-05,2025-02-06,2,5,NA,NA,NA
+24143026,Joudyan Hotel,Booking.com,813.75,708.75,2025-01-25,2025-01-30,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,1248.75,708.75,2025-01-25,2025-01-30,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Booking.com,82.5,71.25,2025-01-25,2025-01-30,2,5,NA,NA,NA
+26451032,The St. Regis Riyadh,StRegis.com,4571.25,NA,2025-01-25,2025-01-30,54,5,NA,NA,NA
+24143026,Joudyan Hotel,Booking.com,813.75,712.5,2025-01-18,2025-01-23,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+27131550,Sands Inn Hostel,Booking.com,82.5,71.25,2025-01-18,2025-01-23,2,5,NA,NA,NA
+26059301,Damac Tower Riyadh Luxury Apartments,Vio.com,NA,506.25,2025-01-18,2025-01-23,1,5,NA,24.709423,46.67273
+26451032,The St. Regis Riyadh,StRegis.com,2411.25,NA,2024-12-28,2025-01-01,54,5,NA,NA,NA
+24143026,Joudyan Hotel,Booking.com,611.25,525,2024-12-28,2025-01-01,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,660,660,2024-12-28,2025-01-01,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Booking.com,82.5,71.25,2024-12-28,2025-01-01,2,5,NA,NA,NA
+24143026,Joudyan Hotel,Booking.com,903.75,783.75,2025-02-09,2025-02-14,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,506.25,506.25,2025-02-09,2025-02-14,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Booking.com,82.5,71.25,2025-02-09,2025-02-14,2,5,NA,NA,NA
+26451032,The St. Regis Riyadh,StRegis.com,4766.25,NA,2025-02-09,2025-02-14,54,5,NA,NA,NA
+24143026,Joudyan Hotel,Booking.com,543.75,476.25,2024-12-20,2024-12-21,317,5,NA,24.713552,46.675297
+27729005,Novotel Riyadh Sahafa,Booking.com,705,NA,2024-12-20,2024-12-21,5,5,NA,NA,NA
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,506.25,506.25,2024-12-20,2024-12-21,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Booking.com,90,82.5,2024-12-20,2024-12-21,2,5,NA,NA,NA
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,660,660,2025-01-04,2025-01-05,1,5,NA,24.709423,46.67273
+26451032,The St. Regis Riyadh,StRegis.com,2220,NA,2025-01-04,2025-01-05,54,5,NA,NA,NA
+27131550,Sands Inn Hostel,Booking.com,82.5,71.25,2025-01-04,2025-01-05,2,5,NA,NA,NA
+24143026,Joudyan Hotel,MakeMyTrip,NA,472.5,2025-01-04,2025-01-05,317,5,NA,24.713552,46.675297
+24143026,Joudyan Hotel,Booking.com,776.25,671.25,2025-02-11,2025-02-16,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+26451032,The St. Regis Riyadh,StRegis.com,3588.75,NA,2025-02-11,2025-02-16,54,5,NA,NA,NA
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,506.25,506.25,2025-02-11,2025-02-16,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Booking.com,86.25,75,2025-02-11,2025-02-16,2,5,NA,NA,NA
+27175878,Mena Hotel Nasiriah Riyadh,Booking.com,427.5,NA,2024-12-22,2024-12-26,1,5,NA,NA,NA
+24143026,Joudyan Hotel,Booking.com,633.75,543.75,2024-12-22,2024-12-26,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+7988480,Vivienda Hotel Villas Granada,Booking.com,3495,NA,2024-12-22,2024-12-26,4,5,NA,NA,NA
+27143516,Ross Hotel,Booking.com,633.75,NA,2024-12-22,2024-12-26,1,5,NA,NA,NA
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,660,660,2024-12-22,2024-12-26,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Agoda.com,71.25,71.25,2024-12-22,2024-12-26,2,5,NA,NA,NA
+23623900,The Valley Resort,Booking.com,2280,NA,2024-12-22,2024-12-26,1,5,NA,NA,NA
+27514929,The Land Resort,Booking.com,2066.25,NA,2024-12-22,2024-12-26,1,5,NA,NA,NA
+24143026,Joudyan Hotel,Booking.com,963.75,840,2025-02-09,2025-02-10,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+26451032,The St. Regis Riyadh,StRegis.com,5306.25,NA,2025-02-09,2025-02-10,54,5,NA,NA,NA
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,720,708.75,2025-02-09,2025-02-10,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Booking.com,82.5,71.25,2025-02-09,2025-02-10,2,5,NA,NA,NA
+24143026,Joudyan Hotel,Booking.com,543.75,472.5,2025-01-03,2025-01-05,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+26451032,The St. Regis Riyadh,StRegis.com,2220,NA,2025-01-03,2025-01-05,54,5,NA,NA,NA
+27131550,Sands Inn Hostel,Booking.com,86.25,75,2025-01-03,2025-01-05,2,5,NA,NA,NA
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,NA,708.75,2025-01-03,2025-01-05,1,5,NA,24.709423,46.67273
+24143026,Joudyan Hotel,Booking.com,802.5,693.75,2025-01-20,2025-01-24,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,506.25,506.25,2025-01-20,2025-01-24,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Booking.com,82.5,71.25,2025-01-20,2025-01-24,2,5,NA,NA,NA
+24143026,Joudyan Hotel,Booking.com,731.25,630,2025-02-13,2025-02-17,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,506.25,506.25,2025-02-13,2025-02-17,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Booking.com,86.25,75,2025-02-13,2025-02-17,2,5,NA,NA,NA
+26451032,The St. Regis Riyadh,StRegis.com,2628.75,NA,2025-02-13,2025-02-17,54,5,NA,NA,NA
+24143026,Joudyan Hotel,Booking.com,780,682.5,2025-01-21,2025-01-24,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+26451032,The St. Regis Riyadh,StRegis.com,4113.75,NA,2025-01-21,2025-01-24,54,5,NA,NA,NA
+27131550,Sands Inn Hostel,Booking.com,86.25,71.25,2025-01-21,2025-01-24,2,5,NA,NA,NA
+26059301,Damac Tower Riyadh Luxury Apartments,Vio.com,NA,502.5,2025-01-21,2025-01-24,1,5,NA,24.709423,46.67273
+24143026,Joudyan Hotel,Booking.com,802.5,701.25,2025-01-13,2025-01-17,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+27131550,Sands Inn Hostel,Booking.com,82.5,71.25,2025-01-13,2025-01-17,2,5,NA,NA,NA
+26059301,Damac Tower Riyadh Luxury Apartments,Vio.com,NA,682.5,2025-01-13,2025-01-17,1,5,NA,24.709423,46.67273
+26451032,The St. Regis Riyadh,StRegis.com,3663.75,NA,2025-02-17,2025-02-18,54,5,NA,NA,NA
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,720,708.75,2025-02-17,2025-02-18,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Booking.com,82.5,71.25,2025-02-17,2025-02-18,2,5,NA,NA,NA
+24143026,Joudyan Hotel,MakeMyTrip,NA,840,2025-02-17,2025-02-18,317,5,NA,24.713552,46.675297
+24143026,Joudyan Hotel,Booking.com,802.5,693.75,2025-01-25,2025-01-29,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+26451032,The St. Regis Riyadh,StRegis.com,4267.5,NA,2025-01-25,2025-01-29,54,5,NA,NA,NA
+26059301,Damac Tower Riyadh Luxury Apartments,Agoda.com,750,708.75,2025-01-25,2025-01-29,1,5,NA,24.709423,46.67273
+27131550,Sands Inn Hostel,Booking.com,82.5,71.25,2025-01-25,2025-01-29,2,5,NA,NA,NA
+9702375,Rosh Rayhaan by Rotana,Official Site,813.75,693.75,2025-01-02,2025-01-03,1311,4.5,"['Free breakfast available', 'Free cancellation']",24.700346,46.682137
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,1128.75,1128.75,2025-01-02,2025-01-03,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Booking.com,633.75,633.75,2025-01-02,2025-01-03,1073,4.5,NA,24.683914,46.68803
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,930,930,2025-01-02,2025-01-03,331,4.5,NA,24.738811,46.635284
+23569851,Fairmont Ramla Serviced Residences,all.accor.com,1518.75,NA,2025-01-02,2025-01-03,121,4.5,NA,NA,NA
+15239002,Shaza Riyadh,Booking.com,652.5,652.5,2025-01-02,2025-01-03,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",MakeMyTrip,915,915,2025-01-02,2025-01-03,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",Booking.com,633.75,633.75,2025-01-02,2025-01-03,214,4.5,NA,24.742296,46.725163
+15215188,Fairmont Riyadh,Fairmont,1605,1605,2025-01-02,2025-01-03,220,4.5,NA,24.808397,46.71805
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,2580,1035,2025-01-02,2025-01-03,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,MakeMyTrip,795,701.25,2025-01-02,2025-01-03,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+3250538,Al Mashreq Boutique Hotel,Booking.com,750,750,2025-01-02,2025-01-03,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,562.5,562.5,2025-01-02,2025-01-03,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+2366709,The Ritz-Carlton Riyadh,Marriott,1507.5,1507.5,2025-01-02,2025-01-03,1045,4.5,NA,NA,NA
+16865982,Le Méridien Riyadh,Marriott,873.75,873.75,2025-01-02,2025-01-03,78,4.5,NA,NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,592.5,566.25,2025-01-02,2025-01-03,2,4.5,NA,24.779217,46.642143
+23569851,Fairmont Ramla Serviced Residences,all.accor.com,2542.5,NA,2025-01-29,2025-02-03,121,4.5,NA,NA,NA
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,1335,1293.75,2025-01-29,2025-02-03,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Prestigia.com,948.75,825,2025-01-29,2025-02-03,1073,4.5,NA,24.683914,46.68803
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,3116.25,3116.25,2025-01-29,2025-02-03,331,4.5,NA,24.738811,46.635284
+15215188,Fairmont Riyadh,all.accor.com,1890,NA,2025-01-29,2025-02-03,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+15239002,Shaza Riyadh,Booking.com,652.5,652.5,2025-01-29,2025-02-03,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",Prestigia.com,1477.5,1218.75,2025-01-29,2025-02-03,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",Booking.com,1076.25,1076.25,2025-01-29,2025-02-03,214,4.5,NA,24.742296,46.725163
+15215188,Fairmont Riyadh,Fairmont,1890,1702.5,2025-01-29,2025-02-03,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,1785,1335,2025-01-29,2025-02-03,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,776.25,750,2025-01-29,2025-02-03,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+3250538,Al Mashreq Boutique Hotel,Booking.com,783.75,783.75,2025-01-29,2025-02-03,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+15756839,Hilton Riyadh Hotel & Residences,Vio.com,1282.5,NA,2025-01-29,2025-02-03,1626,4.5,NA,24.785522,46.72788
+10131963,Spectrums Hotel Riyadh,Booking.com,596.25,596.25,2025-01-29,2025-02-03,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+16865982,Le Méridien Riyadh,Marriott,2152.5,2152.5,2025-01-29,2025-02-03,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,750,750,2025-01-29,2025-02-03,2,4.5,NA,24.779217,46.642143
+9702375,Rosh Rayhaan by Rotana,Official Site,NA,840,2025-01-29,2025-02-03,1311,4.5,NA,24.700346,46.682137
+2366709,The Ritz-Carlton Riyadh,Booking.com,4571.25,3.75,2025-01-29,2025-02-03,1045,4.5,NA,NA,NA
+26366466,Erfad Hotel,Booking.com,588.75,NA,2024-12-23,2024-12-25,2,4.5,NA,NA,NA
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,1027.5,982.5,2024-12-23,2024-12-25,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Booking.com,705,637.5,2024-12-23,2024-12-25,1073,4.5,NA,24.683914,46.68803
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,1065,956.25,2024-12-23,2024-12-25,331,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.738811,46.635284
+15239002,Shaza Riyadh,Booking.com,600,600,2024-12-23,2024-12-25,176,4.5,"['Free breakfast available', 'Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",Booking.com,761.25,716.25,2024-12-23,2024-12-25,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",Booking.com,705,705,2024-12-23,2024-12-25,214,4.5,NA,24.742296,46.725163
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,1207.5,1035,2024-12-23,2024-12-25,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,502.5,442.5,2024-12-23,2024-12-25,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+3250538,Al Mashreq Boutique Hotel,Booking.com,603.75,603.75,2024-12-23,2024-12-25,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,551.25,551.25,2024-12-23,2024-12-25,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+16865982,Le Méridien Riyadh,Marriott,1267.5,1267.5,2024-12-23,2024-12-25,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,543.75,543.75,2024-12-23,2024-12-25,2,4.5,NA,24.779217,46.642143
+12248951,Towlan Khurais,Booking.com,202.5,NA,2024-12-23,2024-12-25,3,4.5,NA,NA,NA
+9702375,Rosh Rayhaan by Rotana,Official Site,NA,701.25,2024-12-23,2024-12-25,1311,4.5,NA,24.700346,46.682137
+15215188,Fairmont Riyadh,Fairmont,NA,1698.75,2024-12-23,2024-12-25,220,4.5,NA,24.808397,46.71805
+2366709,The Ritz-Carlton Riyadh,Booking.com,6330,3.75,2024-12-23,2024-12-25,1045,4.5,NA,NA,NA
+14182161,Hyatt Place Riyadh Al Sulaimania,Booking.com,663.75,NA,2024-12-23,2024-12-25,264,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,1605,1605,2025-01-25,2025-01-28,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Booking.com,885,885,2025-01-25,2025-01-28,1073,4.5,NA,24.683914,46.68803
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,1878.75,1878.75,2025-01-25,2025-01-28,331,4.5,NA,24.738811,46.635284
+15239002,Shaza Riyadh,Booking.com,761.25,761.25,2025-01-25,2025-01-28,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",Booking.com,1473.75,1443.75,2025-01-25,2025-01-28,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",Booking.com,1020,1001.25,2025-01-25,2025-01-28,214,4.5,NA,24.742296,46.725163
+16865982,Le Méridien Riyadh,LeMeridien.com,2471.25,NA,2025-01-25,2025-01-28,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+15215188,Fairmont Riyadh,Fairmont,2118.75,1582.5,2025-01-25,2025-01-28,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,1297.5,1143.75,2025-01-25,2025-01-28,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,776.25,708.75,2025-01-25,2025-01-28,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+3250538,Al Mashreq Boutique Hotel,Booking.com,783.75,783.75,2025-01-25,2025-01-28,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,603.75,603.75,2025-01-25,2025-01-28,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+16865982,Le Méridien Riyadh,Booking.com,2471.25,2471.25,2025-01-25,2025-01-28,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,783.75,783.75,2025-01-25,2025-01-28,2,4.5,NA,24.779217,46.642143
+15756839,Hilton Riyadh Hotel & Residences,Vio.com,1605,NA,2025-01-25,2025-01-28,1626,4.5,NA,24.785522,46.72788
+9702375,Rosh Rayhaan by Rotana,Official Site,NA,963.75,2025-01-25,2025-01-28,1311,4.5,NA,24.700346,46.682137
+2366709,The Ritz-Carlton Riyadh,Booking.com,5317.5,3.75,2025-01-25,2025-01-28,1045,4.5,NA,NA,NA
+6164000,JW Marriott Hotel Riyadh,JW Marriott,1995,NA,2025-01-25,2025-01-28,669,4.5,NA,NA,NA
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Booking.com,716.25,716.25,2025-01-05,2025-01-07,1073,4.5,NA,24.683914,46.68803
+15239002,Shaza Riyadh,Booking.com,652.5,652.5,2025-01-05,2025-01-07,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+15215188,Fairmont Riyadh,all.accor.com,2280,NA,2025-01-05,2025-01-07,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+299191,"InterContinental Riyadh, an IHG hotel",Booking.com,1110,1087.5,2025-01-05,2025-01-07,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",Booking.com,633.75,633.75,2025-01-05,2025-01-07,214,4.5,NA,24.742296,46.725163
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,1357.5,1196.25,2025-01-05,2025-01-07,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,750,708.75,2025-01-05,2025-01-07,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+3250538,Al Mashreq Boutique Hotel,Booking.com,783.75,783.75,2025-01-05,2025-01-07,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,600,600,2025-01-05,2025-01-07,189,4.5,NA,24.700665,46.678635
+6164000,JW Marriott Hotel Riyadh,JW Marriott,1882.5,NA,2025-01-05,2025-01-07,669,4.5,NA,NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,540,487.5,2025-01-05,2025-01-07,2,4.5,NA,24.779217,46.642143
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,1488.75,1488.75,2025-01-05,2025-01-07,1626,4.5,NA,24.785522,46.72788
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,1935,1515,2025-01-05,2025-01-07,331,4.5,NA,24.738811,46.635284
+15215188,Fairmont Riyadh,Fairmont,2280,1702.5,2025-01-05,2025-01-07,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+2366709,The Ritz-Carlton Riyadh,Booking.com,3015,3015,2025-01-05,2025-01-07,1045,4.5,NA,NA,NA
+16865982,Le Méridien Riyadh,Marriott,1901.25,1901.25,2025-01-05,2025-01-07,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+9702375,Rosh Rayhaan by Rotana,Official Site,NA,663.75,2025-01-05,2025-01-07,1311,4.5,NA,24.700346,46.682137
+16865982,Le Méridien Riyadh,LeMeridien.com,1901.25,NA,2025-01-05,2025-01-07,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,1383.75,1346.25,2025-01-17,2025-01-21,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Booking.com,866.25,866.25,2025-01-17,2025-01-21,1073,4.5,NA,24.683914,46.68803
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,1590,1590,2025-01-17,2025-01-21,331,4.5,NA,24.738811,46.635284
+15239002,Shaza Riyadh,Booking.com,813.75,813.75,2025-01-17,2025-01-21,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",Booking.com,1402.5,1350,2025-01-17,2025-01-21,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",Booking.com,1173.75,1173.75,2025-01-17,2025-01-21,214,4.5,NA,24.742296,46.725163
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,2096.25,1117.5,2025-01-17,2025-01-21,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,731.25,693.75,2025-01-17,2025-01-21,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+3250538,Al Mashreq Boutique Hotel,Booking.com,783.75,783.75,2025-01-17,2025-01-21,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,618.75,618.75,2025-01-17,2025-01-21,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+16865982,Le Méridien Riyadh,Marriott,1991.25,1991.25,2025-01-17,2025-01-21,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,750,750,2025-01-17,2025-01-21,2,4.5,NA,24.779217,46.642143
+6164000,JW Marriott Hotel Riyadh,JW Marriott,2437.5,NA,2025-01-17,2025-01-21,669,4.5,NA,NA,NA
+9702375,Rosh Rayhaan by Rotana,Official Site,NA,843.75,2025-01-17,2025-01-21,1311,4.5,NA,24.700346,46.682137
+15215188,Fairmont Riyadh,Fairmont,NA,2205,2025-01-17,2025-01-21,220,4.5,NA,24.808397,46.71805
+2366709,The Ritz-Carlton Riyadh,Booking.com,7413.75,3.75,2025-01-17,2025-01-21,1045,4.5,NA,NA,NA
+16865982,Le Méridien Riyadh,LeMeridien.com,1991.25,NA,2025-01-17,2025-01-21,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+9702375,Rosh Rayhaan by Rotana,Official Site,915,697.5,2025-01-10,2025-01-13,1311,4.5,"['Free breakfast available', 'Free cancellation']",24.700346,46.682137
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,1230,1230,2025-01-10,2025-01-13,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Booking.com,735,735,2025-01-10,2025-01-13,1073,4.5,NA,24.683914,46.68803
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,1196.25,1196.25,2025-01-10,2025-01-13,331,4.5,NA,24.738811,46.635284
+15239002,Shaza Riyadh,Booking.com,723.75,671.25,2025-01-10,2025-01-13,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",Booking.com,1241.25,1241.25,2025-01-10,2025-01-13,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",Booking.com,821.25,821.25,2025-01-10,2025-01-13,214,4.5,NA,24.742296,46.725163
+15215188,Fairmont Riyadh,Fairmont,1845,1661.25,2025-01-10,2025-01-13,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,1976.25,1091.25,2025-01-10,2025-01-13,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,720,671.25,2025-01-10,2025-01-13,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+23569851,Fairmont Ramla Serviced Residences,all.accor.com,2148.75,NA,2025-01-10,2025-01-13,121,4.5,NA,NA,NA
+3250538,Al Mashreq Boutique Hotel,Booking.com,926.25,783.75,2025-01-10,2025-01-13,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,600,600,2025-01-10,2025-01-13,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+2366709,The Ritz-Carlton Riyadh,Booking.com,3656.25,3453.75,2025-01-10,2025-01-13,1045,4.5,NA,NA,NA
+16865982,Le Méridien Riyadh,Marriott,1395,1395,2025-01-10,2025-01-13,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+6164000,JW Marriott Hotel Riyadh,JW Marriott,1785,NA,2025-01-10,2025-01-13,669,4.5,NA,NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,551.25,551.25,2025-01-10,2025-01-13,2,4.5,NA,24.779217,46.642143
+16865982,Le Méridien Riyadh,LeMeridien.com,1395,NA,2025-01-10,2025-01-13,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+6164000,JW Marriott Hotel Riyadh,JW Marriott,1687.5,NA,2025-01-25,2025-01-27,669,4.5,NA,NA,NA
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,1282.5,1282.5,2025-01-25,2025-01-27,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Booking.com,843.75,843.75,2025-01-25,2025-01-27,1073,4.5,NA,24.683914,46.68803
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,1545,1526.25,2025-01-25,2025-01-27,331,4.5,NA,24.738811,46.635284
+15239002,Shaza Riyadh,Booking.com,735,735,2025-01-25,2025-01-27,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",Booking.com,1245,1215,2025-01-25,2025-01-27,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",Booking.com,971.25,971.25,2025-01-25,2025-01-27,214,4.5,NA,24.742296,46.725163
+15215188,Fairmont Riyadh,Fairmont,2171.25,1620,2025-01-25,2025-01-27,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,1267.5,1117.5,2025-01-25,2025-01-27,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,750,693.75,2025-01-25,2025-01-27,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+3250538,Al Mashreq Boutique Hotel,Booking.com,783.75,783.75,2025-01-25,2025-01-27,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,588.75,588.75,2025-01-25,2025-01-27,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+16865982,Le Méridien Riyadh,Marriott,1845,1845,2025-01-25,2025-01-27,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,813.75,772.5,2025-01-25,2025-01-27,2,4.5,NA,24.779217,46.642143
+23673791,"Mansard Riyadh, A Radisson Collection Hotel",Booking.com,1736.25,NA,2025-01-25,2025-01-27,127,4.5,NA,NA,NA
+9702375,Rosh Rayhaan by Rotana,Official Site,NA,798.75,2025-01-25,2025-01-27,1311,4.5,NA,24.700346,46.682137
+2366709,The Ritz-Carlton Riyadh,Booking.com,3978.75,3.75,2025-01-25,2025-01-27,1045,4.5,NA,NA,NA
+16865982,Le Méridien Riyadh,LeMeridien.com,1845,NA,2025-01-25,2025-01-27,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+9702375,Rosh Rayhaan by Rotana,Official Site,836.25,648.75,2025-01-06,2025-01-10,1311,4.5,"['Free breakfast available', 'Free cancellation']",24.700346,46.682137
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,1436.25,1395,2025-01-06,2025-01-10,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Booking.com,735,735,2025-01-06,2025-01-10,1073,4.5,NA,24.683914,46.68803
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,2058.75,1425,2025-01-06,2025-01-10,331,4.5,NA,24.738811,46.635284
+23569851,Fairmont Ramla Serviced Residences,all.accor.com,1672.5,NA,2025-01-06,2025-01-10,121,4.5,NA,NA,NA
+15239002,Shaza Riyadh,Booking.com,652.5,652.5,2025-01-06,2025-01-10,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",Booking.com,1230,1155,2025-01-06,2025-01-10,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",Booking.com,633.75,630,2025-01-06,2025-01-10,214,4.5,NA,24.742296,46.725163
+15215188,Fairmont Riyadh,Fairmont,2025,1511.25,2025-01-06,2025-01-10,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,2103.75,1158.75,2025-01-06,2025-01-10,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,731.25,693.75,2025-01-06,2025-01-10,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+15215188,Fairmont Riyadh,all.accor.com,2025,NA,2025-01-06,2025-01-10,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+3250538,Al Mashreq Boutique Hotel,Booking.com,783.75,783.75,2025-01-06,2025-01-10,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,645,607.5,2025-01-06,2025-01-10,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+2366709,The Ritz-Carlton Riyadh,Booking.com,3708.75,3150,2025-01-06,2025-01-10,1045,4.5,NA,NA,NA
+16865982,Le Méridien Riyadh,Marriott,2171.25,2171.25,2025-01-06,2025-01-10,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+15756839,Hilton Riyadh Hotel & Residences,Vio.com,1380,NA,2025-01-06,2025-01-10,1626,4.5,NA,24.785522,46.72788
+28054092,Nova M Hotel Edge By Rotana,Booking.com,438.75,438.75,2025-01-06,2025-01-10,2,4.5,NA,24.779217,46.642143
+16865982,Le Méridien Riyadh,LeMeridien.com,2351.25,NA,2025-02-10,2025-02-12,78,4.5,"['Free breakfast available', 'Free cancellation']",NA,NA
+9702375,Rosh Rayhaan by Rotana,Official Site,1743.75,1372.5,2025-02-10,2025-02-12,1311,4.5,"['Free breakfast available', 'Free cancellation']",24.700346,46.682137
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,4200,3.75,2025-02-10,2025-02-12,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Booking.com,1507.5,1507.5,2025-02-10,2025-02-12,1073,4.5,NA,24.683914,46.68803
+15215188,Fairmont Riyadh,all.accor.com,3798.75,NA,2025-02-10,2025-02-12,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+15239002,Shaza Riyadh,Booking.com,978.75,978.75,2025-02-10,2025-02-12,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",Booking.com,2696.25,2640,2025-02-10,2025-02-12,957,4.5,NA,24.666677,46.692158
+15215188,Fairmont Riyadh,Fairmont,3798.75,2831.25,2025-02-10,2025-02-12,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+11667441,Hyatt Regency Riyadh Olaya,Hyatt.com,3532.5,3168.75,2025-02-10,2025-02-12,742,4.5,NA,24.698381,46.682392
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,2171.25,1912.5,2025-02-10,2025-02-12,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,776.25,776.25,2025-02-10,2025-02-12,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+14182161,Hyatt Place Riyadh Al Sulaimania,Hyatt.com,2163.75,2062.5,2025-02-10,2025-02-12,264,4.5,"['Free breakfast available', 'Free cancellation']",NA,NA
+23569851,Fairmont Ramla Serviced Residences,all.accor.com,6232.5,NA,2025-02-10,2025-02-12,121,4.5,NA,NA,NA
+3250538,Al Mashreq Boutique Hotel,Booking.com,2171.25,791.25,2025-02-10,2025-02-12,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,641.25,615,2025-02-10,2025-02-12,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+15056872,Centro Olaya,Prestigia.com,1301.25,1301.25,2025-02-10,2025-02-12,333,4.5,NA,24.692995,46.684284
+16865982,Le Méridien Riyadh,Booking.com,2351.25,2351.25,2025-02-10,2025-02-12,78,4.5,"['Free breakfast available', 'Free cancellation']",NA,NA
+6164000,JW Marriott Hotel Riyadh,JW Marriott,3135,NA,2025-02-10,2025-02-12,669,4.5,NA,NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,1031.25,975,2025-02-10,2025-02-12,2,4.5,NA,24.779217,46.642143
+2366709,The Ritz-Carlton Riyadh,Booking.com,5726.25,3.75,2025-02-10,2025-02-12,1045,4.5,NA,NA,NA
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Booking.com,1147.5,1147.5,2025-02-16,2025-02-18,1073,4.5,NA,24.683914,46.68803
+15239002,Shaza Riyadh,Booking.com,870,870,2025-02-16,2025-02-18,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",Booking.com,1605,1605,2025-02-16,2025-02-18,214,4.5,NA,24.742296,46.725163
+810042,Continent Al Waha Hotel,Booking.com,776.25,776.25,2025-02-16,2025-02-18,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+3250538,Al Mashreq Boutique Hotel,Booking.com,783.75,783.75,2025-02-16,2025-02-18,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,641.25,615,2025-02-16,2025-02-18,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+28054092,Nova M Hotel Edge By Rotana,Booking.com,1031.25,975,2025-02-16,2025-02-18,2,4.5,NA,24.779217,46.642143
+16865982,Le Méridien Riyadh,LeMeridien.com,2958.75,NA,2025-02-16,2025-02-18,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+9702375,Rosh Rayhaan by Rotana,Official Site,1935,1526.25,2025-02-16,2025-02-18,1311,4.5,"['Free breakfast available', 'Free cancellation']",24.700346,46.682137
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,2460,2460,2025-02-16,2025-02-18,1626,4.5,NA,24.785522,46.72788
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,2310,2310,2025-02-16,2025-02-18,331,4.5,NA,24.738811,46.635284
+299191,"InterContinental Riyadh, an IHG hotel",Booking.com,1961.25,1920,2025-02-16,2025-02-18,957,4.5,NA,24.666677,46.692158
+15215188,Fairmont Riyadh,Fairmont,2767.5,2066.25,2025-02-16,2025-02-18,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,2171.25,1912.5,2025-02-16,2025-02-18,338,4.5,NA,24.695637,46.683575
+2366709,The Ritz-Carlton Riyadh,Booking.com,4822.5,3.75,2025-02-16,2025-02-18,1045,4.5,NA,NA,NA
+16865982,Le Méridien Riyadh,Booking.com,2958.75,2958.75,2025-02-16,2025-02-18,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+6164000,JW Marriott Hotel Riyadh,JW Marriott,2748.75,NA,2025-02-16,2025-02-18,669,4.5,NA,NA,NA
+9702375,Rosh Rayhaan by Rotana,Official Site,1136.25,866.25,2025-01-15,2025-01-18,1311,4.5,"['Free breakfast available', 'Free cancellation']",24.700346,46.682137
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,1230,1230,2025-01-15,2025-01-18,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Booking.com,806.25,806.25,2025-01-15,2025-01-18,1073,4.5,NA,24.683914,46.68803
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,1650,1650,2025-01-15,2025-01-18,331,4.5,NA,24.738811,46.635284
+15239002,Shaza Riyadh,Booking.com,798.75,753.75,2025-01-15,2025-01-18,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",Booking.com,1901.25,1901.25,2025-01-15,2025-01-18,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",Booking.com,1282.5,1282.5,2025-01-15,2025-01-18,214,4.5,NA,24.742296,46.725163
+16865982,Le Méridien Riyadh,LeMeridien.com,1968.75,NA,2025-01-15,2025-01-18,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+15215188,Fairmont Riyadh,Fairmont,2692.5,2010,2025-01-15,2025-01-18,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,2137.5,1091.25,2025-01-15,2025-01-18,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,701.25,660,2025-01-15,2025-01-18,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+3250538,Al Mashreq Boutique Hotel,Booking.com,1166.25,783.75,2025-01-15,2025-01-18,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,615,615,2025-01-15,2025-01-18,189,4.5,NA,24.700665,46.678635
+16865982,Le Méridien Riyadh,Marriott,1968.75,1968.75,2025-01-15,2025-01-18,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,716.25,716.25,2025-01-15,2025-01-18,2,4.5,NA,24.779217,46.642143
+6164000,JW Marriott Hotel Riyadh,JW Marriott,2332.5,NA,2025-01-15,2025-01-18,669,4.5,NA,NA,NA
+2366709,The Ritz-Carlton Riyadh,Booking.com,6630,3.75,2025-01-15,2025-01-18,1045,4.5,NA,NA,NA
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Booking.com,982.5,982.5,2025-02-02,2025-02-04,1073,4.5,NA,24.683914,46.68803
+15239002,Shaza Riyadh,Booking.com,652.5,652.5,2025-02-02,2025-02-04,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",Booking.com,1691.25,1653.75,2025-02-02,2025-02-04,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",Booking.com,1443.75,1443.75,2025-02-02,2025-02-04,214,4.5,NA,24.742296,46.725163
+810042,Continent Al Waha Hotel,Booking.com,753.75,708.75,2025-02-02,2025-02-04,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+3250538,Al Mashreq Boutique Hotel,Booking.com,783.75,783.75,2025-02-02,2025-02-04,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,611.25,611.25,2025-02-02,2025-02-04,189,4.5,NA,24.700665,46.678635
+28054092,Nova M Hotel Edge By Rotana,Booking.com,1031.25,975,2025-02-02,2025-02-04,2,4.5,NA,24.779217,46.642143
+16865982,Le Méridien Riyadh,LeMeridien.com,2865,NA,2025-02-02,2025-02-04,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+23569851,Fairmont Ramla Serviced Residences,all.accor.com,2280,NA,2025-02-02,2025-02-04,121,4.5,NA,NA,NA
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,2051.25,2051.25,2025-02-02,2025-02-04,1626,4.5,NA,24.785522,46.72788
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,2107.5,2107.5,2025-02-02,2025-02-04,331,4.5,NA,24.738811,46.635284
+15215188,Fairmont Riyadh,Fairmont,2497.5,1860,2025-02-02,2025-02-04,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,2171.25,1912.5,2025-02-02,2025-02-04,338,4.5,NA,24.695637,46.683575
+2366709,The Ritz-Carlton Riyadh,Booking.com,5426.25,3.75,2025-02-02,2025-02-04,1045,4.5,NA,NA,NA
+16865982,Le Méridien Riyadh,Booking.com,2865,2865,2025-02-02,2025-02-04,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+9702375,Rosh Rayhaan by Rotana,Official Site,NA,1203.75,2025-02-02,2025-02-04,1311,4.5,NA,24.700346,46.682137
+6164000,JW Marriott Hotel Riyadh,JW Marriott,2748.75,NA,2025-02-02,2025-02-04,669,4.5,NA,NA,NA
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,1845,1845,2025-02-05,2025-02-06,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Booking.com,993.75,993.75,2025-02-05,2025-02-06,1073,4.5,NA,24.683914,46.68803
+15239002,Shaza Riyadh,Booking.com,652.5,652.5,2025-02-05,2025-02-06,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",Booking.com,1995,1728.75,2025-02-05,2025-02-06,957,4.5,NA,24.666677,46.692158
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,1976.25,1905,2025-02-05,2025-02-06,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,843.75,780,2025-02-05,2025-02-06,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+3250538,Al Mashreq Boutique Hotel,Booking.com,783.75,783.75,2025-02-05,2025-02-06,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,641.25,596.25,2025-02-05,2025-02-06,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+16865982,Le Méridien Riyadh,Booking.com,3075,3075,2025-02-05,2025-02-06,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,1031.25,975,2025-02-05,2025-02-06,2,4.5,NA,24.779217,46.642143
+16865982,Le Méridien Riyadh,LeMeridien.com,3075,NA,2025-02-05,2025-02-06,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+9702375,Rosh Rayhaan by Rotana,Official Site,NA,1256.25,2025-02-05,2025-02-06,1311,4.5,NA,24.700346,46.682137
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,3701.25,3701.25,2025-02-05,2025-02-06,331,4.5,NA,24.738811,46.635284
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",MakeMyTrip,NA,1605,2025-02-05,2025-02-06,214,4.5,NA,24.742296,46.725163
+15215188,Fairmont Riyadh,Fairmont,NA,2636.25,2025-02-05,2025-02-06,220,4.5,NA,24.808397,46.71805
+2366709,The Ritz-Carlton Riyadh,Booking.com,3618.75,3618.75,2025-02-05,2025-02-06,1045,4.5,NA,NA,NA
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,1702.5,1653.75,2025-01-25,2025-01-30,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Prestigia.com,1057.5,918.75,2025-01-25,2025-01-30,1073,4.5,NA,24.683914,46.68803
+15239002,Shaza Riyadh,Booking.com,750,746.25,2025-01-25,2025-01-30,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+15756839,Hilton Riyadh Hotel & Residences,Vio.com,1638.75,NA,2025-01-25,2025-01-30,1626,4.5,NA,24.785522,46.72788
+299191,"InterContinental Riyadh, an IHG hotel",Prestigia.com,1991.25,1605,2025-01-25,2025-01-30,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",Booking.com,1076.25,1076.25,2025-01-25,2025-01-30,214,4.5,NA,24.742296,46.725163
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,1320,1166.25,2025-01-25,2025-01-30,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,776.25,690,2025-01-25,2025-01-30,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+3250538,Al Mashreq Boutique Hotel,Booking.com,783.75,783.75,2025-01-25,2025-01-30,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,618.75,607.5,2025-01-25,2025-01-30,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+16865982,Le Méridien Riyadh,Booking.com,2955,2955,2025-01-25,2025-01-30,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,810,810,2025-01-25,2025-01-30,2,4.5,NA,24.779217,46.642143
+9702375,Rosh Rayhaan by Rotana,Official Site,NA,1080,2025-01-25,2025-01-30,1311,4.5,NA,24.700346,46.682137
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,3251.25,3251.25,2025-01-25,2025-01-30,331,4.5,NA,24.738811,46.635284
+15215188,Fairmont Riyadh,Fairmont,NA,1526.25,2025-01-25,2025-01-30,220,4.5,NA,24.808397,46.71805
+2366709,The Ritz-Carlton Riyadh,Booking.com,6967.5,3.75,2025-01-25,2025-01-30,1045,4.5,NA,NA,NA
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,1537.5,1492.5,2025-01-18,2025-01-23,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Prestigia.com,1203.75,1042.5,2025-01-18,2025-01-23,1073,4.5,NA,24.683914,46.68803
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,1762.5,1762.5,2025-01-18,2025-01-23,331,4.5,NA,24.738811,46.635284
+15239002,Shaza Riyadh,Booking.com,870,870,2025-01-18,2025-01-23,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",Prestigia.com,1983.75,1582.5,2025-01-18,2025-01-23,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",Booking.com,1151.25,1128.75,2025-01-18,2025-01-23,214,4.5,NA,24.742296,46.725163
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,1320,1166.25,2025-01-18,2025-01-23,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,750,690,2025-01-18,2025-01-23,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+3250538,Al Mashreq Boutique Hotel,Booking.com,783.75,783.75,2025-01-18,2025-01-23,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,618.75,607.5,2025-01-18,2025-01-23,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+16865982,Le Méridien Riyadh,Marriott,2486.25,2486.25,2025-01-18,2025-01-23,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,810,810,2025-01-18,2025-01-23,2,4.5,NA,24.779217,46.642143
+6164000,JW Marriott Hotel Riyadh,JW Marriott,2430,NA,2025-01-18,2025-01-23,669,4.5,NA,NA,NA
+9702375,Rosh Rayhaan by Rotana,Official Site,NA,1072.5,2025-01-18,2025-01-23,1311,4.5,NA,24.700346,46.682137
+15215188,Fairmont Riyadh,Fairmont,NA,1897.5,2025-01-18,2025-01-23,220,4.5,NA,24.808397,46.71805
+2366709,The Ritz-Carlton Riyadh,Booking.com,6438.75,3.75,2025-01-18,2025-01-23,1045,4.5,NA,NA,NA
+16865982,Le Méridien Riyadh,LeMeridien.com,2486.25,NA,2025-01-18,2025-01-23,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,1027.5,960,2024-12-28,2025-01-01,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Booking.com,573.75,573.75,2024-12-28,2025-01-01,1073,4.5,NA,24.683914,46.68803
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,892.5,892.5,2024-12-28,2025-01-01,331,4.5,NA,24.738811,46.635284
+15215188,Fairmont Riyadh,all.accor.com,1556.25,NA,2024-12-28,2025-01-01,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+15239002,Shaza Riyadh,Booking.com,600,600,2024-12-28,2025-01-01,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",Booking.com,776.25,753.75,2024-12-28,2025-01-01,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",Booking.com,633.75,630,2024-12-28,2025-01-01,214,4.5,NA,24.742296,46.725163
+23569851,Fairmont Ramla Serviced Residences,all.accor.com,1293.75,NA,2024-12-28,2025-01-01,121,4.5,NA,NA,NA
+15215188,Fairmont Riyadh,Fairmont,1556.25,1068.75,2024-12-28,2025-01-01,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,1548.75,1053.75,2024-12-28,2025-01-01,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,555,498.75,2024-12-28,2025-01-01,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+3250538,Al Mashreq Boutique Hotel,Booking.com,603.75,603.75,2024-12-28,2025-01-01,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,562.5,562.5,2024-12-28,2025-01-01,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+2366709,The Ritz-Carlton Riyadh,Marriott,1282.5,1282.5,2024-12-28,2025-01-01,1045,4.5,NA,NA,NA
+16865982,Le Méridien Riyadh,Marriott,963.75,963.75,2024-12-28,2025-01-01,78,4.5,NA,NA,NA
+16865982,Le Méridien Riyadh,LeMeridien.com,963.75,NA,2024-12-28,2025-01-01,78,4.5,NA,NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,487.5,465,2024-12-28,2025-01-01,2,4.5,NA,24.779217,46.642143
+9702375,Rosh Rayhaan by Rotana,Official Site,NA,678.75,2024-12-28,2025-01-01,1311,4.5,NA,24.700346,46.682137
+15215188,Fairmont Riyadh,all.accor.com,3093.75,NA,2025-02-09,2025-02-14,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Prestigia.com,1571.25,1365,2025-02-09,2025-02-14,1073,4.5,NA,24.683914,46.68803
+15239002,Shaza Riyadh,Booking.com,922.5,840,2025-02-09,2025-02-14,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+23569851,Fairmont Ramla Serviced Residences,all.accor.com,5632.5,NA,2025-02-09,2025-02-14,121,4.5,NA,NA,NA
+810042,Continent Al Waha Hotel,Booking.com,776.25,765,2025-02-09,2025-02-14,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+10131963,Spectrums Hotel Riyadh,Booking.com,641.25,618.75,2025-02-09,2025-02-14,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+14182161,Hyatt Place Riyadh Al Sulaimania,Hyatt.com,1635,1511.25,2025-02-09,2025-02-14,264,4.5,"['Free breakfast available', 'Free cancellation']",NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,888.75,888.75,2025-02-09,2025-02-14,2,4.5,NA,24.779217,46.642143
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,3176.25,3086.25,2025-02-09,2025-02-14,1626,4.5,NA,24.785522,46.72788
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,4556.25,3.75,2025-02-09,2025-02-14,331,4.5,NA,24.738811,46.635284
+299191,"InterContinental Riyadh, an IHG hotel",Prestigia.com,2925,2407.5,2025-02-09,2025-02-14,957,4.5,NA,24.666677,46.692158
+15215188,Fairmont Riyadh,Fairmont,3093.75,2782.5,2025-02-09,2025-02-14,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,2100,1830,2025-02-09,2025-02-14,338,4.5,NA,24.695637,46.683575
+3250538,Al Mashreq Boutique Hotel,Booking.com,2171.25,1050,2025-02-09,2025-02-14,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+2366709,The Ritz-Carlton Riyadh,Booking.com,4387.5,3.75,2025-02-09,2025-02-14,1045,4.5,NA,NA,NA
+16865982,Le Méridien Riyadh,Marriott,2253.75,2253.75,2025-02-09,2025-02-14,78,4.5,"['Free breakfast available', 'Free cancellation']",NA,NA
+9702375,Rosh Rayhaan by Rotana,Official Site,NA,1188.75,2025-02-09,2025-02-14,1311,4.5,NA,24.700346,46.682137
+9702375,Rosh Rayhaan by Rotana,Official Site,1087.5,806.25,2024-12-20,2024-12-21,1311,4.5,"['Free breakfast available', 'Free cancellation']",24.700346,46.682137
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,1642.5,1612.5,2024-12-20,2024-12-21,1626,4.5,NA,24.785522,46.72788
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,1282.5,1282.5,2024-12-20,2024-12-21,331,4.5,"['Free breakfast available', 'Reserve now, pay at stay']",24.738811,46.635284
+11879864,Thwary Hotel Suites,Booking.com,615,NA,2024-12-20,2024-12-21,3,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+15239002,Shaza Riyadh,Booking.com,615,615,2024-12-20,2024-12-21,176,4.5,"['Free breakfast available', 'Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",Booking.com,1128.75,1020,2024-12-20,2024-12-21,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",Booking.com,633.75,633.75,2024-12-20,2024-12-21,214,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.742296,46.725163
+15215188,Fairmont Riyadh,Fairmont,1687.5,1638.75,2024-12-20,2024-12-21,220,4.5,"['Free breakfast available', 'Reserve now, pay at stay']",24.808397,46.71805
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,1496.25,1245,2024-12-20,2024-12-21,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,476.25,438.75,2024-12-20,2024-12-21,407,4.5,NA,24.680944,46.689484
+3250538,Al Mashreq Boutique Hotel,Booking.com,630,581.25,2024-12-20,2024-12-21,170,4.5,NA,24.70452,46.655216
+15215188,Fairmont Riyadh,all.accor.com,1687.5,NA,2024-12-20,2024-12-21,220,4.5,"['Free breakfast available', 'Reserve now, pay at stay']",24.808397,46.71805
+10131963,Spectrums Hotel Riyadh,Booking.com,540,540,2024-12-20,2024-12-21,189,4.5,NA,24.700665,46.678635
+14182161,Hyatt Place Riyadh Al Sulaimania,Hyatt.com,603.75,581.25,2024-12-20,2024-12-21,264,4.5,NA,NA,NA
+2366709,The Ritz-Carlton Riyadh,Booking.com,1207.5,1207.5,2024-12-20,2024-12-21,1045,4.5,NA,NA,NA
+16865982,Le Méridien Riyadh,Marriott,1087.5,1087.5,2024-12-20,2024-12-21,78,4.5,"['Free breakfast available', 'Reserve now, pay at stay']",NA,NA
+28054092,Nova M Hotel Edge By Rotana,Hotels.com,577.5,566.25,2024-12-20,2024-12-21,2,4.5,NA,24.779217,46.642143
+26366466,Erfad Hotel,Booking.com,652.5,NA,2024-12-20,2024-12-21,2,4.5,NA,NA,NA
+15215188,Fairmont Riyadh,all.accor.com,1605,NA,2025-01-04,2025-01-05,220,4.5,NA,24.808397,46.71805
+9702375,Rosh Rayhaan by Rotana,Official Site,813.75,671.25,2025-01-04,2025-01-05,1311,4.5,"['Free breakfast available', 'Free cancellation']",24.700346,46.682137
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,1128.75,1128.75,2025-01-04,2025-01-05,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",MakeMyTrip,603.75,600,2025-01-04,2025-01-05,1073,4.5,NA,24.683914,46.68803
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,960,960,2025-01-04,2025-01-05,331,4.5,NA,24.738811,46.635284
+15239002,Shaza Riyadh,Booking.com,652.5,652.5,2025-01-04,2025-01-05,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+15215188,Fairmont Riyadh,Fairmont,1605,1605,2025-01-04,2025-01-05,220,4.5,NA,24.808397,46.71805
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,2700,1035,2025-01-04,2025-01-05,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,MakeMyTrip,727.5,701.25,2025-01-04,2025-01-05,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+23569851,Fairmont Ramla Serviced Residences,all.accor.com,1518.75,NA,2025-01-04,2025-01-05,121,4.5,NA,NA,NA
+3250538,Al Mashreq Boutique Hotel,Booking.com,750,750,2025-01-04,2025-01-05,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,562.5,562.5,2025-01-04,2025-01-05,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+2366709,The Ritz-Carlton Riyadh,Marriott,1507.5,1507.5,2025-01-04,2025-01-05,1045,4.5,NA,NA,NA
+16865982,Le Méridien Riyadh,Marriott,978.75,978.75,2025-01-04,2025-01-05,78,4.5,NA,NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,592.5,566.25,2025-01-04,2025-01-05,2,4.5,NA,24.779217,46.642143
+299191,"InterContinental Riyadh, an IHG hotel",MakeMyTrip,NA,1065,2025-01-04,2025-01-05,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",MakeMyTrip,NA,633.75,2025-01-04,2025-01-05,214,4.5,NA,24.742296,46.725163
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,2175,2111.25,2025-02-11,2025-02-16,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Prestigia.com,1211.25,1050,2025-02-11,2025-02-16,1073,4.5,NA,24.683914,46.68803
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,3461.25,3461.25,2025-02-11,2025-02-16,331,4.5,NA,24.738811,46.635284
+15756839,Hilton Riyadh Hotel & Residences,Vio.com,2092.5,NA,2025-02-11,2025-02-16,1626,4.5,NA,24.785522,46.72788
+15239002,Shaza Riyadh,Booking.com,813.75,813.75,2025-02-11,2025-02-16,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",Prestigia.com,2268.75,1830,2025-02-11,2025-02-16,957,4.5,NA,24.666677,46.692158
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,1953.75,1721.25,2025-02-11,2025-02-16,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,776.25,776.25,2025-02-11,2025-02-16,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+3250538,Al Mashreq Boutique Hotel,Booking.com,2013.75,1035,2025-02-11,2025-02-16,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,596.25,596.25,2025-02-11,2025-02-16,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+14182161,Hyatt Place Riyadh Al Sulaimania,Hyatt.com,1158.75,1072.5,2025-02-11,2025-02-16,264,4.5,"['Free breakfast available', 'Free cancellation']",NA,NA
+2366709,The Ritz-Carlton Riyadh,Booking.com,3270,3168.75,2025-02-11,2025-02-16,1045,4.5,NA,NA,NA
+16865982,Le Méridien Riyadh,Marriott,1822.5,1822.5,2025-02-11,2025-02-16,78,4.5,"['Free breakfast available', 'Free cancellation']",NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,768.75,768.75,2025-02-11,2025-02-16,2,4.5,NA,24.779217,46.642143
+16865982,Le Méridien Riyadh,LeMeridien.com,1822.5,NA,2025-02-11,2025-02-16,78,4.5,"['Free breakfast available', 'Free cancellation']",NA,NA
+9702375,Rosh Rayhaan by Rotana,Official Site,NA,926.25,2025-02-11,2025-02-16,1311,4.5,NA,24.700346,46.682137
+15215188,Fairmont Riyadh,Fairmont,NA,1875,2025-02-11,2025-02-16,220,4.5,NA,24.808397,46.71805
+9702375,Rosh Rayhaan by Rotana,Official Site,937.5,705,2024-12-22,2024-12-26,1311,4.5,"['Free breakfast available', 'Free cancellation']",24.700346,46.682137
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,1027.5,960,2024-12-22,2024-12-26,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Booking.com,641.25,630,2024-12-22,2024-12-26,1073,4.5,NA,24.683914,46.68803
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,1050,945,2024-12-22,2024-12-26,331,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.738811,46.635284
+15239002,Shaza Riyadh,Booking.com,600,600,2024-12-22,2024-12-26,176,4.5,"['Free breakfast available', 'Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",Booking.com,765,738.75,2024-12-22,2024-12-26,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",Booking.com,870,840,2024-12-22,2024-12-26,214,4.5,NA,24.742296,46.725163
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,1177.5,1038.75,2024-12-22,2024-12-26,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,506.25,450,2024-12-22,2024-12-26,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+3250538,Al Mashreq Boutique Hotel,Booking.com,603.75,603.75,2024-12-22,2024-12-26,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,555,555,2024-12-22,2024-12-26,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+16865982,Le Méridien Riyadh,Marriott,1237.5,1237.5,2024-12-22,2024-12-26,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,528.75,528.75,2024-12-22,2024-12-26,2,4.5,NA,24.779217,46.642143
+15215188,Fairmont Riyadh,Fairmont,2088.75,1470,2024-12-22,2024-12-26,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+2366709,The Ritz-Carlton Riyadh,Booking.com,5651.25,3.75,2024-12-22,2024-12-26,1045,4.5,NA,NA,NA
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Booking.com,1507.5,1507.5,2025-02-09,2025-02-10,1073,4.5,NA,24.683914,46.68803
+15239002,Shaza Riyadh,Booking.com,978.75,753.75,2025-02-09,2025-02-10,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",Booking.com,1717.5,1717.5,2025-02-09,2025-02-10,957,4.5,NA,24.666677,46.692158
+810042,Continent Al Waha Hotel,Booking.com,843.75,731.25,2025-02-09,2025-02-10,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+14182161,Hyatt Place Riyadh Al Sulaimania,Hyatt.com,1560,1481.25,2025-02-09,2025-02-10,264,4.5,"['Free breakfast available', 'Free cancellation']",NA,NA
+10131963,Spectrums Hotel Riyadh,Booking.com,641.25,596.25,2025-02-09,2025-02-10,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+6164000,JW Marriott Hotel Riyadh,JW Marriott,3135,NA,2025-02-09,2025-02-10,669,4.5,NA,NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,1031.25,975,2025-02-09,2025-02-10,2,4.5,NA,24.779217,46.642143
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,3075,3075,2025-02-09,2025-02-10,1626,4.5,NA,24.785522,46.72788
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,1976.25,1905,2025-02-09,2025-02-10,338,4.5,NA,24.695637,46.683575
+3250538,Al Mashreq Boutique Hotel,Booking.com,2171.25,2171.25,2025-02-09,2025-02-10,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+2366709,The Ritz-Carlton Riyadh,Booking.com,5666.25,3.75,2025-02-09,2025-02-10,1045,4.5,NA,NA,NA
+16865982,Le Méridien Riyadh,Marriott,2351.25,2351.25,2025-02-09,2025-02-10,78,4.5,"['Free breakfast available', 'Free cancellation']",NA,NA
+9702375,Rosh Rayhaan by Rotana,Official Site,NA,1226.25,2025-02-09,2025-02-10,1311,4.5,NA,24.700346,46.682137
+15215188,Fairmont Riyadh,Fairmont,NA,3.75,2025-02-09,2025-02-10,220,4.5,NA,24.808397,46.71805
+15056872,Centro Olaya,Official Site,NA,1008.75,2025-02-09,2025-02-10,333,4.5,NA,24.692995,46.684284
+16865982,Le Méridien Riyadh,LeMeridien.com,2351.25,NA,2025-02-09,2025-02-10,78,4.5,"['Free breakfast available', 'Free cancellation']",NA,NA
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,1128.75,960,2025-01-03,2025-01-05,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Booking.com,603.75,603.75,2025-01-03,2025-01-05,1073,4.5,NA,24.683914,46.68803
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,997.5,997.5,2025-01-03,2025-01-05,331,4.5,NA,24.738811,46.635284
+15239002,Shaza Riyadh,Booking.com,652.5,652.5,2025-01-03,2025-01-05,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",Booking.com,1042.5,1012.5,2025-01-03,2025-01-05,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",Booking.com,633.75,633.75,2025-01-03,2025-01-05,214,4.5,NA,24.742296,46.725163
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,1177.5,1038.75,2025-01-03,2025-01-05,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,708.75,708.75,2025-01-03,2025-01-05,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+3250538,Al Mashreq Boutique Hotel,Booking.com,750,750,2025-01-03,2025-01-05,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,562.5,562.5,2025-01-03,2025-01-05,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+2366709,The Ritz-Carlton Riyadh,Marriott,1507.5,1507.5,2025-01-03,2025-01-05,1045,4.5,NA,NA,NA
+16865982,Le Méridien Riyadh,Marriott,930,930,2025-01-03,2025-01-05,78,4.5,NA,NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,592.5,483.75,2025-01-03,2025-01-05,2,4.5,NA,24.779217,46.642143
+6164000,JW Marriott Hotel Riyadh,JW Marriott,1398.75,NA,2025-01-03,2025-01-05,669,4.5,NA,NA,NA
+9702375,Rosh Rayhaan by Rotana,Official Site,NA,682.5,2025-01-03,2025-01-05,1311,4.5,NA,24.700346,46.682137
+15215188,Fairmont Riyadh,Fairmont,NA,1368.75,2025-01-03,2025-01-05,220,4.5,NA,24.808397,46.71805
+16865982,Le Méridien Riyadh,LeMeridien.com,930,NA,2025-01-03,2025-01-05,78,4.5,NA,NA,NA
+9702375,Rosh Rayhaan by Rotana,Official Site,1413.75,1113.75,2025-01-20,2025-01-24,1311,4.5,"['Free breakfast available', 'Free cancellation']",24.700346,46.682137
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,1563.75,1518.75,2025-01-20,2025-01-24,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Booking.com,1237.5,997.5,2025-01-20,2025-01-24,1073,4.5,NA,24.683914,46.68803
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,1860,1860,2025-01-20,2025-01-24,331,4.5,NA,24.738811,46.635284
+15239002,Shaza Riyadh,Booking.com,870,870,2025-01-20,2025-01-24,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",Booking.com,1653.75,1590,2025-01-20,2025-01-24,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",Booking.com,1098.75,1068.75,2025-01-20,2025-01-24,214,4.5,NA,24.742296,46.725163
+16865982,Le Méridien Riyadh,LeMeridien.com,2700,NA,2025-01-20,2025-01-24,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+15215188,Fairmont Riyadh,Fairmont,2152.5,1608.75,2025-01-20,2025-01-24,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,1976.25,1158.75,2025-01-20,2025-01-24,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,731.25,690,2025-01-20,2025-01-24,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+15215188,Fairmont Riyadh,all.accor.com,2152.5,NA,2025-01-20,2025-01-24,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+3250538,Al Mashreq Boutique Hotel,Booking.com,783.75,783.75,2025-01-20,2025-01-24,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,607.5,607.5,2025-01-20,2025-01-24,189,4.5,NA,24.700665,46.678635
+16865982,Le Méridien Riyadh,Booking.com,2700,2591.25,2025-01-20,2025-01-24,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,798.75,798.75,2025-01-20,2025-01-24,2,4.5,NA,24.779217,46.642143
+6164000,JW Marriott Hotel Riyadh,JW Marriott,2193.75,NA,2025-01-20,2025-01-24,669,4.5,NA,NA,NA
+2366709,The Ritz-Carlton Riyadh,Booking.com,4822.5,3.75,2025-01-20,2025-01-24,1045,4.5,NA,NA,NA
+3250538,Al Mashreq Boutique Hotel,Booking.com,783.75,NA,2025-01-20,2025-01-24,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+23569851,Fairmont Ramla Serviced Residences,all.accor.com,2538.75,NA,2025-02-13,2025-02-17,121,4.5,NA,NA,NA
+9702375,Rosh Rayhaan by Rotana,Official Site,1042.5,840,2025-02-13,2025-02-17,1311,4.5,"['Free breakfast available', 'Free cancellation']",24.700346,46.682137
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,1357.5,1320,2025-02-13,2025-02-17,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Booking.com,858.75,858.75,2025-02-13,2025-02-17,1073,4.5,NA,24.683914,46.68803
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,2212.5,2212.5,2025-02-13,2025-02-17,331,4.5,NA,24.738811,46.635284
+15215188,Fairmont Riyadh,all.accor.com,2036.25,NA,2025-02-13,2025-02-17,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+15239002,Shaza Riyadh,Booking.com,746.25,746.25,2025-02-13,2025-02-17,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",Booking.com,1575,1541.25,2025-02-13,2025-02-17,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",Booking.com,1147.5,1147.5,2025-02-13,2025-02-17,214,4.5,NA,24.742296,46.725163
+15756839,Hilton Riyadh Hotel & Residences,Vio.com,1308.75,NA,2025-02-13,2025-02-17,1626,4.5,NA,24.785522,46.72788
+15215188,Fairmont Riyadh,Fairmont,2036.25,1522.5,2025-02-13,2025-02-17,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,1976.25,1650,2025-02-13,2025-02-17,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,776.25,671.25,2025-02-13,2025-02-17,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+3250538,Al Mashreq Boutique Hotel,Booking.com,1627.5,1113.75,2025-02-13,2025-02-17,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,588.75,588.75,2025-02-13,2025-02-17,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+2366709,The Ritz-Carlton Riyadh,Booking.com,2666.25,2561.25,2025-02-13,2025-02-17,1045,4.5,NA,NA,NA
+16865982,Le Méridien Riyadh,Marriott,1627.5,1627.5,2025-02-13,2025-02-17,78,4.5,"['Free breakfast available', 'Free cancellation']",NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,723.75,723.75,2025-02-13,2025-02-17,2,4.5,NA,24.779217,46.642143
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,1470,1470,2025-01-21,2025-01-24,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Booking.com,1286.25,1286.25,2025-01-21,2025-01-24,1073,4.5,NA,24.683914,46.68803
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,1818.75,1818.75,2025-01-21,2025-01-24,331,4.5,NA,24.738811,46.635284
+15239002,Shaza Riyadh,Booking.com,870,870,2025-01-21,2025-01-24,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",Booking.com,1533.75,1533.75,2025-01-21,2025-01-24,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",Booking.com,1080,1080,2025-01-21,2025-01-24,214,4.5,NA,24.742296,46.725163
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,1297.5,1143.75,2025-01-21,2025-01-24,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,720,690,2025-01-21,2025-01-24,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+3250538,Al Mashreq Boutique Hotel,Booking.com,783.75,783.75,2025-01-21,2025-01-24,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,603.75,603.75,2025-01-21,2025-01-24,189,4.5,NA,24.700665,46.678635
+2366709,The Ritz-Carlton Riyadh,Booking.com,3941.25,3.75,2025-01-21,2025-01-24,1045,4.5,NA,NA,NA
+16865982,Le Méridien Riyadh,Booking.com,2591.25,2591.25,2025-01-21,2025-01-24,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,783.75,783.75,2025-01-21,2025-01-24,2,4.5,NA,24.779217,46.642143
+16865982,Le Méridien Riyadh,LeMeridien.com,2572.5,NA,2025-01-21,2025-01-24,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+9702375,Rosh Rayhaan by Rotana,Official Site,NA,1080,2025-01-21,2025-01-24,1311,4.5,NA,24.700346,46.682137
+15215188,Fairmont Riyadh,Fairmont,NA,1905,2025-01-21,2025-01-24,220,4.5,NA,24.808397,46.71805
+6164000,JW Marriott Hotel Riyadh,JW Marriott,2025,NA,2025-01-21,2025-01-24,669,4.5,NA,NA,NA
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,1563.75,1518.75,2025-01-13,2025-01-17,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Booking.com,952.5,843.75,2025-01-13,2025-01-17,1073,4.5,NA,24.683914,46.68803
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,2047.5,2047.5,2025-01-13,2025-01-17,331,4.5,NA,24.738811,46.635284
+15239002,Shaza Riyadh,Booking.com,870,783.75,2025-01-13,2025-01-17,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",Booking.com,2842.5,2842.5,2025-01-13,2025-01-17,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",Booking.com,1267.5,1267.5,2025-01-13,2025-01-17,214,4.5,NA,24.742296,46.725163
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,2036.25,1158.75,2025-01-13,2025-01-17,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,731.25,693.75,2025-01-13,2025-01-17,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+3250538,Al Mashreq Boutique Hotel,Booking.com,1477.5,783.75,2025-01-13,2025-01-17,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,607.5,607.5,2025-01-13,2025-01-17,189,4.5,NA,24.700665,46.678635
+28054092,Nova M Hotel Edge By Rotana,Booking.com,798.75,798.75,2025-01-13,2025-01-17,2,4.5,NA,24.779217,46.642143
+28054092,Nova M Hotel Edge By Rotana,Booking.com,798.75,NA,2025-01-13,2025-01-17,2,4.5,NA,24.779217,46.642143
+9702375,Rosh Rayhaan by Rotana,Official Site,NA,1185,2025-01-13,2025-01-17,1311,4.5,NA,24.700346,46.682137
+6164000,JW Marriott Hotel Riyadh,JW Marriott,2700,NA,2025-01-13,2025-01-17,669,4.5,NA,NA,NA
+15215188,Fairmont Riyadh,Fairmont,NA,2133.75,2025-01-13,2025-01-17,220,4.5,NA,24.808397,46.71805
+2366709,The Ritz-Carlton Riyadh,Booking.com,5096.25,3.75,2025-01-13,2025-01-17,1045,4.5,NA,NA,NA
+16865982,Le Méridien Riyadh,Booking.com,5351.25,3.75,2025-01-13,2025-01-17,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+16865982,Le Méridien Riyadh,LeMeridien.com,4263.75,NA,2025-01-13,2025-01-17,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+9702375,Rosh Rayhaan by Rotana,Official Site,2212.5,1743.75,2025-02-17,2025-02-18,1311,4.5,"['Free breakfast available', 'Free cancellation']",24.700346,46.682137
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,3075,3075,2025-02-17,2025-02-18,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Booking.com,1087.5,1087.5,2025-02-17,2025-02-18,1073,4.5,NA,24.683914,46.68803
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,2647.5,2647.5,2025-02-17,2025-02-18,331,4.5,NA,24.738811,46.635284
+15239002,Shaza Riyadh,Booking.com,870,870,2025-02-17,2025-02-18,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+15215188,Fairmont Riyadh,Fairmont,2921.25,2921.25,2025-02-17,2025-02-18,220,4.5,NA,24.808397,46.71805
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,1976.25,1905,2025-02-17,2025-02-18,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,843.75,772.5,2025-02-17,2025-02-18,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+3250538,Al Mashreq Boutique Hotel,Booking.com,783.75,783.75,2025-02-17,2025-02-18,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+10131963,Spectrums Hotel Riyadh,Booking.com,641.25,596.25,2025-02-17,2025-02-18,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+28054092,Nova M Hotel Edge By Rotana,Booking.com,1031.25,975,2025-02-17,2025-02-18,2,4.5,NA,24.779217,46.642143
+23569851,Fairmont Ramla Serviced Residences,all.accor.com,2280,NA,2025-02-17,2025-02-18,121,4.5,NA,NA,NA
+15215188,Fairmont Riyadh,all.accor.com,2921.25,NA,2025-02-17,2025-02-18,220,4.5,NA,24.808397,46.71805
+299191,"InterContinental Riyadh, an IHG hotel",MakeMyTrip,NA,2287.5,2025-02-17,2025-02-18,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",MakeMyTrip,NA,1605,2025-02-17,2025-02-18,214,4.5,NA,24.742296,46.725163
+16865982,Le Méridien Riyadh,LeMeridien.com,5182.5,NA,2025-02-17,2025-02-18,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+2366709,The Ritz-Carlton Riyadh,Booking.com,4822.5,3.75,2025-02-17,2025-02-18,1045,4.5,NA,NA,NA
+16865982,Le Méridien Riyadh,Booking.com,5182.5,3.75,2025-02-17,2025-02-18,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+6164000,JW Marriott Hotel Riyadh,JW Marriott,2797.5,NA,2025-02-17,2025-02-18,669,4.5,NA,NA,NA
+9702375,Rosh Rayhaan by Rotana,Official Site,1335,1050,2025-01-25,2025-01-29,1311,4.5,"['Free breakfast available', 'Free cancellation']",24.700346,46.682137
+15756839,Hilton Riyadh Hotel & Residences,Booking.com,1770,1702.5,2025-01-25,2025-01-29,1626,4.5,NA,24.785522,46.72788
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",Booking.com,907.5,847.5,2025-01-25,2025-01-29,1073,4.5,NA,24.683914,46.68803
+15239002,Shaza Riyadh,Booking.com,776.25,671.25,2025-01-25,2025-01-29,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+299191,"InterContinental Riyadh, an IHG hotel",Booking.com,1623.75,1590,2025-01-25,2025-01-29,957,4.5,NA,24.666677,46.692158
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",Booking.com,1053.75,1053.75,2025-01-25,2025-01-29,214,4.5,NA,24.742296,46.725163
+15215188,Fairmont Riyadh,Fairmont,2152.5,1608.75,2025-01-25,2025-01-29,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+5994700,Narcissus Hotel & Spa Riyadh,Booking.com,1976.25,1158.75,2025-01-25,2025-01-29,338,4.5,NA,24.695637,46.683575
+810042,Continent Al Waha Hotel,Booking.com,750,690,2025-01-25,2025-01-29,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+3250538,Al Mashreq Boutique Hotel,Booking.com,783.75,783.75,2025-01-25,2025-01-29,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+23569851,Fairmont Ramla Serviced Residences,all.accor.com,2178.75,NA,2025-01-25,2025-01-29,121,4.5,NA,NA,NA
+10131963,Spectrums Hotel Riyadh,Booking.com,615,615,2025-01-25,2025-01-29,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+16865982,Le Méridien Riyadh,Booking.com,2895,2895,2025-01-25,2025-01-29,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+28054092,Nova M Hotel Edge By Rotana,Booking.com,798.75,798.75,2025-01-25,2025-01-29,2,4.5,NA,24.779217,46.642143
+15215188,Fairmont Riyadh,all.accor.com,2152.5,NA,2025-01-25,2025-01-29,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+6164000,JW Marriott Hotel Riyadh,JW Marriott,2100,NA,2025-01-25,2025-01-29,669,4.5,NA,NA,NA
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",Booking.com,3258.75,3258.75,2025-01-25,2025-01-29,331,4.5,NA,24.738811,46.635284
+2366709,The Ritz-Carlton Riyadh,Booking.com,6570,3.75,2025-01-25,2025-01-29,1045,4.5,NA,NA,NA
+16865982,Le Méridien Riyadh,LeMeridien.com,2895,NA,2025-01-25,2025-01-29,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,630,630,2025-01-02,2025-01-03,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",MakeMyTrip,483.75,483.75,2025-01-02,2025-01-03,239,4,NA,24.664728,46.71136
+3349253,Carawan Al Fahad Hotel,Booking.com,532.5,495,2025-01-02,2025-01-03,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+1748545,Executives Hotel - Olaya,Booking.com,615,540,2025-01-02,2025-01-03,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Marriott,573.75,573.75,2025-01-02,2025-01-03,407,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,MakeMyTrip,442.5,442.5,2025-01-02,2025-01-03,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,671.25,NA,2025-01-02,2025-01-03,7,4,NA,NA,NA
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,915,NA,2025-01-02,2025-01-03,256,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,682.5,682.5,2025-01-29,2025-02-03,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Prestigia.com,562.5,562.5,2025-01-29,2025-02-03,239,4,NA,24.664728,46.71136
+3349253,Carawan Al Fahad Hotel,MakeMyTrip,517.5,450,2025-01-29,2025-02-03,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+1748545,Executives Hotel - Olaya,Booking.com,558.75,513.75,2025-01-29,2025-02-03,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Marriott,918.75,918.75,2025-01-29,2025-02-03,407,4,NA,NA,NA
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,1365,NA,2025-01-29,2025-02-03,256,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,1050,903.75,2025-01-29,2025-02-03,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,836.25,NA,2025-01-29,2025-02-03,7,4,NA,NA,NA
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,918.75,NA,2025-01-29,2025-02-03,407,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,615,581.25,2024-12-23,2024-12-25,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Booking.com,825,405,2024-12-23,2024-12-25,239,4,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.664728,46.71136
+3349253,Carawan Al Fahad Hotel,Booking.com,423.75,393.75,2024-12-23,2024-12-25,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+1748545,Executives Hotel - Olaya,Booking.com,450,412.5,2024-12-23,2024-12-25,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Booking.com,888.75,888.75,2024-12-23,2024-12-25,407,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,472.5,393.75,2024-12-23,2024-12-25,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,671.25,NA,2024-12-23,2024-12-25,7,4,NA,NA,NA
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,1207.5,NA,2025-01-25,2025-01-28,407,4,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,750,750,2025-01-25,2025-01-28,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Booking.com,765,562.5,2025-01-25,2025-01-28,239,4,NA,24.664728,46.71136
+3349253,Carawan Al Fahad Hotel,Booking.com,532.5,446.25,2025-01-25,2025-01-28,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+1748545,Executives Hotel - Olaya,Booking.com,566.25,521.25,2025-01-25,2025-01-28,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Booking.com,1207.5,1207.5,2025-01-25,2025-01-28,407,4,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,1181.25,1016.25,2025-01-25,2025-01-28,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,937.5,NA,2025-01-25,2025-01-28,7,4,NA,NA,NA
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,1091.25,NA,2025-01-05,2025-01-07,407,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,648.75,648.75,2025-01-05,2025-01-07,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Booking.com,588.75,562.5,2025-01-05,2025-01-07,239,4,NA,24.664728,46.71136
+3349253,Carawan Al Fahad Hotel,Booking.com,532.5,457.5,2025-01-05,2025-01-07,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+1748545,Executives Hotel - Olaya,Booking.com,566.25,551.25,2025-01-05,2025-01-07,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Booking.com,1260,1091.25,2025-01-05,2025-01-07,407,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,637.5,543.75,2025-01-05,2025-01-07,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,821.25,NA,2025-01-05,2025-01-07,7,4,NA,NA,NA
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,1481.25,NA,2025-01-05,2025-01-07,256,4,NA,NA,NA
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,1061.25,NA,2025-01-17,2025-01-21,407,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,675,675,2025-01-17,2025-01-21,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Booking.com,701.25,562.5,2025-01-17,2025-01-21,239,4,NA,24.664728,46.71136
+3349253,Carawan Al Fahad Hotel,Booking.com,532.5,465,2025-01-17,2025-01-21,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+1748545,Executives Hotel - Olaya,Booking.com,566.25,551.25,2025-01-17,2025-01-21,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Booking.com,1233.75,1061.25,2025-01-17,2025-01-21,407,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,990,918.75,2025-01-17,2025-01-21,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,798.75,NA,2025-01-17,2025-01-21,7,4,NA,NA,NA
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,1436.25,NA,2025-01-17,2025-01-21,256,4,NA,NA,NA
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,900,NA,2025-01-10,2025-01-13,407,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,701.25,573.75,2025-01-10,2025-01-13,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Booking.com,622.5,562.5,2025-01-10,2025-01-13,239,4,NA,24.664728,46.71136
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,1440,NA,2025-01-10,2025-01-13,256,4,NA,NA,NA
+3349253,Carawan Al Fahad Hotel,Booking.com,532.5,446.25,2025-01-10,2025-01-13,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+1748545,Executives Hotel - Olaya,Booking.com,566.25,521.25,2025-01-10,2025-01-13,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Booking.com,821.25,821.25,2025-01-10,2025-01-13,407,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,641.25,588.75,2025-01-10,2025-01-13,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,761.25,NA,2025-01-10,2025-01-13,7,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,697.5,697.5,2025-01-25,2025-01-27,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Booking.com,690,562.5,2025-01-25,2025-01-27,239,4,NA,24.664728,46.71136
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,1061.25,NA,2025-01-25,2025-01-27,407,4,NA,NA,NA
+3349253,Carawan Al Fahad Hotel,Booking.com,532.5,457.5,2025-01-25,2025-01-27,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+1748545,Executives Hotel - Olaya,Booking.com,566.25,551.25,2025-01-25,2025-01-27,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Booking.com,1061.25,1061.25,2025-01-25,2025-01-27,407,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,1001.25,907.5,2025-01-25,2025-01-27,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,873.75,NA,2025-01-25,2025-01-27,7,4,NA,NA,NA
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,1601.25,NA,2025-01-25,2025-01-27,256,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,637.5,637.5,2025-01-06,2025-01-10,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Booking.com,825,562.5,2025-01-06,2025-01-10,239,4,NA,24.664728,46.71136
+3349253,Carawan Al Fahad Hotel,Booking.com,532.5,446.25,2025-01-06,2025-01-10,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+1748545,Executives Hotel - Olaya,Booking.com,566.25,521.25,2025-01-06,2025-01-10,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Booking.com,1173.75,1005,2025-01-06,2025-01-10,407,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,562.5,543.75,2025-01-06,2025-01-10,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,783.75,NA,2025-01-06,2025-01-10,7,4,NA,NA,NA
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,1005,NA,2025-01-06,2025-01-10,407,4,NA,NA,NA
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,1353.75,NA,2025-01-06,2025-01-10,256,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,832.5,791.25,2025-02-10,2025-02-12,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Booking.com,1297.5,562.5,2025-02-10,2025-02-12,239,4,NA,24.664728,46.71136
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,8587.5,NA,2025-02-10,2025-02-12,407,4,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+3349253,Carawan Al Fahad Hotel,MakeMyTrip,517.5,457.5,2025-02-10,2025-02-12,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+1748545,Executives Hotel - Olaya,Booking.com,543.75,528.75,2025-02-10,2025-02-12,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+15368089,IntercityHotel Riyadh Malaz,Booking.com,1845,1530,2025-02-10,2025-02-12,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,1676.25,NA,2025-02-10,2025-02-12,7,4,NA,NA,NA
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,2501.25,NA,2025-02-10,2025-02-12,256,4,NA,NA,NA
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,1548.75,NA,2025-02-16,2025-02-18,407,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,757.5,757.5,2025-02-16,2025-02-18,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Booking.com,915,562.5,2025-02-16,2025-02-18,239,4,NA,24.664728,46.71136
+3349253,Carawan Al Fahad Hotel,MakeMyTrip,517.5,457.5,2025-02-16,2025-02-18,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,2081.25,NA,2025-02-16,2025-02-18,256,4,NA,NA,NA
+1748545,Executives Hotel - Olaya,Booking.com,543.75,528.75,2025-02-16,2025-02-18,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Booking.com,1548.75,1548.75,2025-02-16,2025-02-18,407,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,821.25,NA,2025-02-16,2025-02-18,7,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,2051.25,1530,2025-02-16,2025-02-18,14,4,NA,NA,NA
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,708.75,NA,2025-01-15,2025-01-18,407,4,"['Free breakfast available', 'Reserve now, pay at stay']",NA,NA
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,1226.25,NA,2025-01-15,2025-01-18,256,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,648.75,648.75,2025-01-15,2025-01-18,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Booking.com,753.75,566.25,2025-01-15,2025-01-18,239,4,NA,24.664728,46.71136
+3349253,Carawan Al Fahad Hotel,Booking.com,532.5,446.25,2025-01-15,2025-01-18,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+1748545,Executives Hotel - Olaya,Booking.com,566.25,521.25,2025-01-15,2025-01-18,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Booking.com,705,705,2025-01-15,2025-01-18,407,4,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+9720941,Burj Alhayah Hotel Suites Alfalah,Booking.com,390,NA,2025-01-15,2025-01-18,5,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,536.25,457.5,2025-01-15,2025-01-18,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,806.25,NA,2025-01-15,2025-01-18,7,4,NA,NA,NA
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,1518.75,NA,2025-02-02,2025-02-04,407,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,828.75,828.75,2025-02-02,2025-02-04,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Booking.com,862.5,562.5,2025-02-02,2025-02-04,239,4,NA,24.664728,46.71136
+3349253,Carawan Al Fahad Hotel,MakeMyTrip,517.5,457.5,2025-02-02,2025-02-04,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,1657.5,NA,2025-02-02,2025-02-04,256,4,NA,NA,NA
+1748545,Executives Hotel - Olaya,Booking.com,543.75,528.75,2025-02-02,2025-02-04,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Booking.com,1518.75,1518.75,2025-02-02,2025-02-04,407,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,1038.75,NA,2025-02-02,2025-02-04,7,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,1845,1425,2025-02-02,2025-02-04,14,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,791.25,791.25,2025-02-05,2025-02-06,499,4,NA,24.680237,46.690372
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,1260,NA,2025-02-05,2025-02-06,407,4,NA,NA,NA
+1748545,Executives Hotel - Olaya,Booking.com,592.5,517.5,2025-02-05,2025-02-06,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Marriott,1260,1260,2025-02-05,2025-02-06,407,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,1845,1676.25,2025-02-05,2025-02-06,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,1038.75,NA,2025-02-05,2025-02-06,7,4,NA,NA,NA
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",MakeMyTrip,NA,1035,2025-02-05,2025-02-06,239,4,NA,24.664728,46.71136
+3349253,Carawan Al Fahad Hotel,MakeMyTrip,NA,457.5,2025-02-05,2025-02-06,54,4,NA,24.711273,46.671043
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,1657.5,NA,2025-02-05,2025-02-06,256,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,757.5,757.5,2025-01-25,2025-01-30,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Prestigia.com,562.5,562.5,2025-01-25,2025-01-30,239,4,NA,24.664728,46.71136
+3349253,Carawan Al Fahad Hotel,Booking.com,532.5,450,2025-01-25,2025-01-30,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,1226.25,NA,2025-01-25,2025-01-30,407,4,NA,NA,NA
+1748545,Executives Hotel - Olaya,Booking.com,566.25,521.25,2025-01-25,2025-01-30,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Marriott,1226.25,1226.25,2025-01-25,2025-01-30,407,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,1323.75,1188.75,2025-01-25,2025-01-30,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,982.5,NA,2025-01-25,2025-01-30,7,4,NA,NA,NA
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,1601.25,NA,2025-01-25,2025-01-30,256,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,693.75,693.75,2025-01-18,2025-01-23,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Prestigia.com,562.5,562.5,2025-01-18,2025-01-23,239,4,NA,24.664728,46.71136
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,1293.75,NA,2025-01-18,2025-01-23,407,4,NA,NA,NA
+3349253,Carawan Al Fahad Hotel,Booking.com,532.5,468.75,2025-01-18,2025-01-23,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+1748545,Executives Hotel - Olaya,Booking.com,566.25,551.25,2025-01-18,2025-01-23,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Booking.com,1443.75,1293.75,2025-01-18,2025-01-23,407,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,1320,1222.5,2025-01-18,2025-01-23,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,847.5,NA,2025-01-18,2025-01-23,7,4,NA,NA,NA
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,1605,NA,2025-01-18,2025-01-23,256,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,611.25,611.25,2024-12-28,2025-01-01,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Booking.com,678.75,371.25,2024-12-28,2025-01-01,239,4,NA,24.664728,46.71136
+3349253,Carawan Al Fahad Hotel,Booking.com,480,397.5,2024-12-28,2025-01-01,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+1748545,Executives Hotel - Olaya,Booking.com,517.5,476.25,2024-12-28,2025-01-01,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Marriott,731.25,731.25,2024-12-28,2025-01-01,407,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,562.5,408.75,2024-12-28,2025-01-01,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,663.75,NA,2024-12-28,2025-01-01,7,4,NA,NA,NA
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,731.25,NA,2024-12-28,2025-01-01,407,4,NA,NA,NA
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,892.5,NA,2024-12-28,2025-01-01,256,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,660,660,2025-02-09,2025-02-14,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Prestigia.com,562.5,562.5,2025-02-09,2025-02-14,239,4,NA,24.664728,46.71136
+3349253,Carawan Al Fahad Hotel,MakeMyTrip,517.5,450,2025-02-09,2025-02-14,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+1748545,Executives Hotel - Olaya,Booking.com,543.75,502.5,2025-02-09,2025-02-14,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Marriott,1515,1515,2025-02-09,2025-02-14,407,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,1526.25,1398.75,2025-02-09,2025-02-14,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,1492.5,NA,2025-02-09,2025-02-14,7,4,NA,NA,NA
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,2235,NA,2025-02-09,2025-02-14,256,4,NA,NA,NA
+9720941,Burj Alhayah Hotel Suites Alfalah,Booking.com,300,NA,2024-12-20,2024-12-21,5,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,592.5,487.5,2024-12-20,2024-12-21,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Booking.com,615,611.25,2024-12-20,2024-12-21,239,4,"['Free breakfast available', 'Reserve now, pay at stay']",24.664728,46.71136
+3349253,Carawan Al Fahad Hotel,Booking.com,405,356.25,2024-12-20,2024-12-21,54,4,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.711273,46.671043
+1748545,Executives Hotel - Olaya,Booking.com,465,420,2024-12-20,2024-12-21,165,4,NA,24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Booking.com,573.75,573.75,2024-12-20,2024-12-21,407,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,431.25,386.25,2024-12-20,2024-12-21,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,671.25,NA,2024-12-20,2024-12-21,7,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,630,630,2025-01-04,2025-01-05,499,4,NA,24.680237,46.690372
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,630,NA,2025-01-04,2025-01-05,407,4,NA,NA,NA
+3349253,Carawan Al Fahad Hotel,Booking.com,532.5,457.5,2025-01-04,2025-01-05,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+1748545,Executives Hotel - Olaya,Booking.com,615,540,2025-01-04,2025-01-05,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Marriott,630,630,2025-01-04,2025-01-05,407,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,MakeMyTrip,465,465,2025-01-04,2025-01-05,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,671.25,NA,2025-01-04,2025-01-05,7,4,NA,NA,NA
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",MakeMyTrip,NA,491.25,2025-01-04,2025-01-05,239,4,NA,24.664728,46.71136
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,1481.25,NA,2025-01-04,2025-01-05,256,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,600,600,2025-02-11,2025-02-16,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Prestigia.com,562.5,562.5,2025-02-11,2025-02-16,239,4,NA,24.664728,46.71136
+1748545,Executives Hotel - Olaya,Booking.com,525,483.75,2025-02-11,2025-02-16,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Marriott,1140,1140,2025-02-11,2025-02-16,407,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,1312.5,1192.5,2025-02-11,2025-02-16,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,1125,NA,2025-02-11,2025-02-16,7,4,NA,NA,NA
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,1140,NA,2025-02-11,2025-02-16,407,4,NA,NA,NA
+3349253,Carawan Al Fahad Hotel,MakeMyTrip,NA,450,2025-02-11,2025-02-16,54,4,NA,24.711273,46.671043
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,1923.75,NA,2025-02-11,2025-02-16,256,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,645,581.25,2024-12-22,2024-12-26,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Booking.com,626.25,397.5,2024-12-22,2024-12-26,239,4,NA,24.664728,46.71136
+9720941,Burj Alhayah Hotel Suites Alfalah,Booking.com,318.75,NA,2024-12-22,2024-12-26,5,4,NA,NA,NA
+3349253,Carawan Al Fahad Hotel,Booking.com,423.75,397.5,2024-12-22,2024-12-26,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+1748545,Executives Hotel - Olaya,Booking.com,446.25,405,2024-12-22,2024-12-26,165,4,NA,24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Booking.com,817.5,817.5,2024-12-22,2024-12-26,407,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,438.75,408.75,2024-12-22,2024-12-26,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,671.25,NA,2024-12-22,2024-12-26,7,4,NA,NA,NA
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,1605,NA,2025-02-09,2025-02-10,407,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,855,855,2025-02-09,2025-02-10,499,4,NA,24.680237,46.690372
+1748545,Executives Hotel - Olaya,Booking.com,592.5,517.5,2025-02-09,2025-02-10,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Marriott,1605,1605,2025-02-09,2025-02-10,407,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,1845,1743.75,2025-02-09,2025-02-10,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,1676.25,NA,2025-02-09,2025-02-10,7,4,NA,NA,NA
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,4631.25,NA,2025-02-09,2025-02-10,256,4,NA,NA,NA
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",MakeMyTrip,NA,1053.75,2025-02-09,2025-02-10,239,4,NA,24.664728,46.71136
+3349253,Carawan Al Fahad Hotel,MakeMyTrip,NA,457.5,2025-02-09,2025-02-10,54,4,NA,24.711273,46.671043
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,603.75,NA,2025-01-03,2025-01-05,407,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,626.25,547.5,2025-01-03,2025-01-05,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Booking.com,513.75,513.75,2025-01-03,2025-01-05,239,4,NA,24.664728,46.71136
+3349253,Carawan Al Fahad Hotel,Booking.com,532.5,457.5,2025-01-03,2025-01-05,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+1748545,Executives Hotel - Olaya,Booking.com,566.25,551.25,2025-01-03,2025-01-05,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Booking.com,641.25,603.75,2025-01-03,2025-01-05,407,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,671.25,NA,2025-01-03,2025-01-05,7,4,NA,NA,NA
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,1196.25,NA,2025-01-03,2025-01-05,256,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,NA,442.5,2025-01-03,2025-01-05,14,4,NA,NA,NA
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,1275,NA,2025-01-20,2025-01-24,407,4,NA,NA,NA
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,1432.5,NA,2025-01-20,2025-01-24,256,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,678.75,678.75,2025-01-20,2025-01-24,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Booking.com,772.5,562.5,2025-01-20,2025-01-24,239,4,NA,24.664728,46.71136
+3349253,Carawan Al Fahad Hotel,Booking.com,532.5,446.25,2025-01-20,2025-01-24,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+1748545,Executives Hotel - Olaya,Booking.com,566.25,521.25,2025-01-20,2025-01-24,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Booking.com,1417.5,1275,2025-01-20,2025-01-24,407,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,1275,1098.75,2025-01-20,2025-01-24,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,847.5,NA,2025-01-20,2025-01-24,7,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,630,630,2025-02-13,2025-02-17,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Booking.com,690,562.5,2025-02-13,2025-02-17,239,4,NA,24.664728,46.71136
+3349253,Carawan Al Fahad Hotel,MakeMyTrip,517.5,446.25,2025-02-13,2025-02-17,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+1748545,Executives Hotel - Olaya,Booking.com,521.25,480,2025-02-13,2025-02-17,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Booking.com,960,960,2025-02-13,2025-02-17,407,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,1230,1057.5,2025-02-13,2025-02-17,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,780,NA,2025-02-13,2025-02-17,7,4,NA,NA,NA
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,960,NA,2025-02-13,2025-02-17,407,4,NA,NA,NA
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,1185,NA,2025-01-21,2025-01-24,407,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,656.25,656.25,2025-01-21,2025-01-24,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Booking.com,727.5,562.5,2025-01-21,2025-01-24,239,4,NA,24.664728,46.71136
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,1380,NA,2025-01-21,2025-01-24,256,4,NA,NA,NA
+3349253,Carawan Al Fahad Hotel,Booking.com,532.5,465,2025-01-21,2025-01-24,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+1748545,Executives Hotel - Olaya,Booking.com,566.25,551.25,2025-01-21,2025-01-24,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Booking.com,1320,1147.5,2025-01-21,2025-01-24,407,4,NA,NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,1188.75,1102.5,2025-01-21,2025-01-24,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,858.75,NA,2025-01-21,2025-01-24,7,4,NA,NA,NA
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,2621.25,NA,2025-01-13,2025-01-17,407,4,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,873.75,798.75,2025-01-13,2025-01-17,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Booking.com,1091.25,1091.25,2025-01-13,2025-01-17,239,4,NA,24.664728,46.71136
+3349253,Carawan Al Fahad Hotel,Booking.com,532.5,465,2025-01-13,2025-01-17,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,1500,NA,2025-01-13,2025-01-17,256,4,NA,NA,NA
+1748545,Executives Hotel - Olaya,Booking.com,566.25,551.25,2025-01-13,2025-01-17,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Marriott,2621.25,2621.25,2025-01-13,2025-01-17,407,4,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,652.5,645,2025-01-13,2025-01-17,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,847.5,NA,2025-01-13,2025-01-17,7,4,NA,NA,NA
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,8617.5,NA,2025-02-17,2025-02-18,407,4,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",MakeMyTrip,941.25,941.25,2025-02-17,2025-02-18,239,4,NA,24.664728,46.71136
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,2081.25,NA,2025-02-17,2025-02-18,256,4,NA,NA,NA
+1748545,Executives Hotel - Olaya,Booking.com,592.5,517.5,2025-02-17,2025-02-18,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+15368089,IntercityHotel Riyadh Malaz,Booking.com,2051.25,1676.25,2025-02-17,2025-02-18,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,806.25,NA,2025-02-17,2025-02-18,7,4,NA,NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",MakeMyTrip,NA,750,2025-02-17,2025-02-18,499,4,NA,24.680237,46.690372
+3349253,Carawan Al Fahad Hotel,MakeMyTrip,NA,457.5,2025-02-17,2025-02-18,54,4,NA,24.711273,46.671043
+301864,Sheraton Riyadh Hotel & Towers,Trip.com,8613.75,7.5,2025-02-17,2025-02-18,407,4,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+301864,Sheraton Riyadh Hotel & Towers,Sheraton.com,1312.5,NA,2025-01-25,2025-01-29,407,4,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",Booking.com,757.5,757.5,2025-01-25,2025-01-29,499,4,NA,24.680237,46.690372
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",Booking.com,772.5,562.5,2025-01-25,2025-01-29,239,4,NA,24.664728,46.71136
+2149240,Riyadh Airport Marriott Hotel,Marriott Hotels,1601.25,NA,2025-01-25,2025-01-29,256,4,NA,NA,NA
+3349253,Carawan Al Fahad Hotel,Booking.com,532.5,446.25,2025-01-25,2025-01-29,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+1748545,Executives Hotel - Olaya,Booking.com,566.25,521.25,2025-01-25,2025-01-29,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+301864,Sheraton Riyadh Hotel & Towers,Booking.com,1312.5,1312.5,2025-01-25,2025-01-29,407,4,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",NA,NA
+15368089,IntercityHotel Riyadh Malaz,Booking.com,1271.25,1095,2025-01-25,2025-01-29,14,4,NA,NA,NA
+25280776,Ramada By wyndham,Agoda.com,971.25,NA,2025-01-25,2025-01-29,7,4,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,MakeMyTrip,476.25,476.25,2025-01-02,2025-01-03,430,3.5,NA,24.712132,46.67674
+3879255,OYO 146 Al Asemah Hotel,Expedia,266.25,266.25,2025-01-02,2025-01-03,3,3.5,"['Free breakfast available', 'Free cancellation']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,656.25,502.5,2025-01-02,2025-01-03,70,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,Booking.com,341.25,341.25,2025-01-29,2025-02-03,430,3.5,NA,24.712132,46.67674
+3879255,OYO 146 Al Asemah Hotel,Expedia,266.25,266.25,2025-01-29,2025-02-03,3,3.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,656.25,558.75,2025-01-29,2025-02-03,70,3.5,NA,NA,NA
+10319364,Al Diafah Hotel Suites,Booking.com,675,NA,2024-12-23,2024-12-25,2,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,Booking.com,427.5,427.5,2024-12-23,2024-12-25,430,3.5,NA,24.712132,46.67674
+3437636,Intour Qurtoba Hotel Suites,Booking.com,390,NA,2024-12-23,2024-12-25,5,3.5,NA,NA,NA
+3879255,OYO 146 Al Asemah Hotel,Agoda.com,195,172.5,2024-12-23,2024-12-25,3,3.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,656.25,506.25,2024-12-23,2024-12-25,70,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,Booking.com,360,356.25,2025-01-25,2025-01-28,430,3.5,NA,24.712132,46.67674
+3879255,OYO 146 Al Asemah Hotel,Expedia,266.25,266.25,2025-01-25,2025-01-28,3,3.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,656.25,540,2025-01-25,2025-01-28,70,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,Booking.com,416.25,416.25,2025-01-05,2025-01-07,430,3.5,NA,24.712132,46.67674
+1732120,Rand by Wandalus,Booking.com,712.5,502.5,2025-01-05,2025-01-07,70,3.5,NA,NA,NA
+3879255,OYO 146 Al Asemah Hotel,Vio.com,NA,266.25,2025-01-05,2025-01-07,3,3.5,NA,24.641687,46.72113
+3514706,ibis Riyadh Olaya Street,Booking.com,360,360,2025-01-17,2025-01-21,430,3.5,NA,24.712132,46.67674
+3879255,OYO 146 Al Asemah Hotel,Expedia,266.25,266.25,2025-01-17,2025-01-21,3,3.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,712.5,558.75,2025-01-17,2025-01-21,70,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,Booking.com,326.25,326.25,2025-01-10,2025-01-13,430,3.5,NA,24.712132,46.67674
+3879255,OYO 146 Al Asemah Hotel,Expedia,266.25,266.25,2025-01-10,2025-01-13,3,3.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,570,528.75,2025-01-10,2025-01-13,70,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,Booking.com,341.25,337.5,2025-01-25,2025-01-27,430,3.5,NA,24.712132,46.67674
+3879255,OYO 146 Al Asemah Hotel,Expedia,266.25,266.25,2025-01-25,2025-01-27,3,3.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,656.25,536.25,2025-01-25,2025-01-27,70,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,Booking.com,397.5,397.5,2025-01-06,2025-01-10,430,3.5,NA,24.712132,46.67674
+3879255,OYO 146 Al Asemah Hotel,Expedia,266.25,266.25,2025-01-06,2025-01-10,3,3.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,712.5,506.25,2025-01-06,2025-01-10,70,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,Booking.com,663.75,663.75,2025-02-10,2025-02-12,430,3.5,NA,24.712132,46.67674
+3879255,OYO 146 Al Asemah Hotel,Expedia,266.25,266.25,2025-02-10,2025-02-12,3,3.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,656.25,558.75,2025-02-10,2025-02-12,70,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,Booking.com,390,390,2025-02-16,2025-02-18,430,3.5,NA,24.712132,46.67674
+3879255,OYO 146 Al Asemah Hotel,Expedia,266.25,266.25,2025-02-16,2025-02-18,3,3.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,712.5,502.5,2025-02-16,2025-02-18,70,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,Booking.com,427.5,427.5,2025-01-15,2025-01-18,430,3.5,NA,24.712132,46.67674
+3879255,OYO 146 Al Asemah Hotel,Expedia,266.25,266.25,2025-01-15,2025-01-18,3,3.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,592.5,532.5,2025-01-15,2025-01-18,70,3.5,NA,NA,NA
+23999395,Voyage Hotel,Booking.com,881.25,NA,2025-01-15,2025-01-18,3,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,Booking.com,390,390,2025-02-02,2025-02-04,430,3.5,NA,24.712132,46.67674
+3879255,OYO 146 Al Asemah Hotel,Expedia,266.25,266.25,2025-02-02,2025-02-04,3,3.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,656.25,543.75,2025-02-02,2025-02-04,70,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,Booking.com,405,405,2025-02-05,2025-02-06,430,3.5,NA,24.712132,46.67674
+3879255,OYO 146 Al Asemah Hotel,Expedia,266.25,266.25,2025-02-05,2025-02-06,3,3.5,"['Free breakfast available', 'Free cancellation']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,656.25,588.75,2025-02-05,2025-02-06,70,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,Booking.com,371.25,371.25,2025-01-25,2025-01-30,430,3.5,NA,24.712132,46.67674
+506759,Madareem Hotel,Vio.com,813.75,NA,2025-01-25,2025-01-30,105,3.5,NA,NA,NA
+3879255,OYO 146 Al Asemah Hotel,Expedia,266.25,266.25,2025-01-25,2025-01-30,3,3.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,656.25,558.75,2025-01-25,2025-01-30,70,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,Booking.com,382.5,382.5,2025-01-18,2025-01-23,430,3.5,NA,24.712132,46.67674
+3879255,OYO 146 Al Asemah Hotel,Expedia,266.25,266.25,2025-01-18,2025-01-23,3,3.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,712.5,558.75,2025-01-18,2025-01-23,70,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,Booking.com,420,420,2024-12-28,2025-01-01,430,3.5,NA,24.712132,46.67674
+3879255,OYO 146 Al Asemah Hotel,Agoda.com,198.75,172.5,2024-12-28,2025-01-01,3,3.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,656.25,502.5,2024-12-28,2025-01-01,70,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,Booking.com,600,600,2025-02-09,2025-02-14,430,3.5,NA,24.712132,46.67674
+3879255,OYO 146 Al Asemah Hotel,Expedia,266.25,266.25,2025-02-09,2025-02-14,3,3.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,656.25,596.25,2025-02-09,2025-02-14,70,3.5,NA,NA,NA
+12363377,Braira Al Wezarat,Booking.com,498.75,NA,2024-12-20,2024-12-21,6,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,Booking.com,472.5,472.5,2024-12-20,2024-12-21,430,3.5,NA,24.712132,46.67674
+5249543,Meral Crown Hotel,Booking.com,300,NA,2024-12-20,2024-12-21,20,3.5,NA,NA,NA
+3879255,OYO 146 Al Asemah Hotel,Agoda.com,213.75,172.5,2024-12-20,2024-12-21,3,3.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,573.75,498.75,2024-12-20,2024-12-21,70,3.5,NA,NA,NA
+3879255,OYO 146 Al Asemah Hotel,Expedia,266.25,266.25,2025-01-04,2025-01-05,3,3.5,"['Free breakfast available', 'Free cancellation']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,656.25,502.5,2025-01-04,2025-01-05,70,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,MakeMyTrip,NA,405,2025-01-04,2025-01-05,430,3.5,NA,24.712132,46.67674
+3514706,ibis Riyadh Olaya Street,Booking.com,453.75,453.75,2025-02-11,2025-02-16,430,3.5,NA,24.712132,46.67674
+3879255,OYO 146 Al Asemah Hotel,Expedia,266.25,266.25,2025-02-11,2025-02-16,3,3.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,712.5,558.75,2025-02-11,2025-02-16,70,3.5,NA,NA,NA
+14027272,Nawara Dala,Booking.com,435,NA,2024-12-22,2024-12-26,2,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,Booking.com,427.5,427.5,2024-12-22,2024-12-26,430,3.5,NA,24.712132,46.67674
+3879255,OYO 146 Al Asemah Hotel,Agoda.com,187.5,172.5,2024-12-22,2024-12-26,3,3.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,656.25,506.25,2024-12-22,2024-12-26,70,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,Booking.com,701.25,701.25,2025-02-09,2025-02-10,430,3.5,NA,24.712132,46.67674
+3879255,OYO 146 Al Asemah Hotel,Expedia,266.25,266.25,2025-02-09,2025-02-10,3,3.5,"['Free breakfast available', 'Free cancellation']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,656.25,596.25,2025-02-09,2025-02-10,70,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,Booking.com,405,405,2025-01-03,2025-01-05,430,3.5,NA,24.712132,46.67674
+1732120,Rand by Wandalus,Booking.com,656.25,540,2025-01-03,2025-01-05,70,3.5,NA,NA,NA
+3879255,OYO 146 Al Asemah Hotel,Vio.com,NA,266.25,2025-01-03,2025-01-05,3,3.5,NA,24.641687,46.72113
+3514706,ibis Riyadh Olaya Street,Booking.com,390,390,2025-01-20,2025-01-24,430,3.5,NA,24.712132,46.67674
+10319364,Al Diafah Hotel Suites,Booking.com,532.5,NA,2025-01-20,2025-01-24,2,3.5,NA,NA,NA
+3879255,OYO 146 Al Asemah Hotel,Expedia,266.25,266.25,2025-01-20,2025-01-24,3,3.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,656.25,540,2025-01-20,2025-01-24,70,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,Booking.com,333.75,333.75,2025-02-13,2025-02-17,430,3.5,NA,24.712132,46.67674
+506759,Madareem Hotel,Vio.com,787.5,NA,2025-02-13,2025-02-17,105,3.5,NA,NA,NA
+3879255,OYO 146 Al Asemah Hotel,Expedia,266.25,266.25,2025-02-13,2025-02-17,3,3.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,712.5,540,2025-02-13,2025-02-17,70,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,Booking.com,382.5,382.5,2025-01-21,2025-01-24,430,3.5,NA,24.712132,46.67674
+1732120,Rand by Wandalus,Booking.com,656.25,558.75,2025-01-21,2025-01-24,70,3.5,NA,NA,NA
+3879255,OYO 146 Al Asemah Hotel,Vio.com,NA,266.25,2025-01-21,2025-01-24,3,3.5,NA,24.641687,46.72113
+3514706,ibis Riyadh Olaya Street,Booking.com,487.5,487.5,2025-01-13,2025-01-17,430,3.5,NA,24.712132,46.67674
+3879255,OYO 146 Al Asemah Hotel,Expedia,266.25,266.25,2025-01-13,2025-01-17,3,3.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,566.25,562.5,2025-01-13,2025-01-17,70,3.5,NA,NA,NA
+3879255,OYO 146 Al Asemah Hotel,Expedia,266.25,266.25,2025-02-17,2025-02-18,3,3.5,"['Free breakfast available', 'Free cancellation']",24.641687,46.72113
+3514706,ibis Riyadh Olaya Street,MakeMyTrip,NA,423.75,2025-02-17,2025-02-18,430,3.5,NA,24.712132,46.67674
+1732120,Rand by Wandalus,MakeMyTrip,NA,596.25,2025-02-17,2025-02-18,70,3.5,NA,NA,NA
+3514706,ibis Riyadh Olaya Street,Booking.com,371.25,371.25,2025-01-25,2025-01-29,430,3.5,NA,24.712132,46.67674
+3879255,OYO 146 Al Asemah Hotel,Expedia,266.25,266.25,2025-01-25,2025-01-29,3,3.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.641687,46.72113
+1732120,Rand by Wandalus,Booking.com,656.25,540,2025-01-25,2025-01-29,70,3.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,480,NA,2025-01-02,2025-01-03,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,138.75,138.75,2025-01-02,2025-01-03,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,487.5,NA,2025-01-29,2025-02-03,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,131.25,131.25,2025-01-29,2025-02-03,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,431.25,NA,2024-12-23,2024-12-25,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,120,120,2024-12-23,2024-12-25,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,483.75,NA,2025-01-25,2025-01-28,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,131.25,131.25,2025-01-25,2025-01-28,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,491.25,NA,2025-01-05,2025-01-07,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,165,165,2025-01-05,2025-01-07,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,483.75,NA,2025-01-17,2025-01-21,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Vio.com,NA,131.25,2025-01-17,2025-01-21,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,491.25,NA,2025-01-10,2025-01-13,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,153.75,153.75,2025-01-10,2025-01-13,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,476.25,NA,2025-01-25,2025-01-27,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,131.25,131.25,2025-01-25,2025-01-27,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,495,NA,2025-01-06,2025-01-10,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,165,165,2025-01-06,2025-01-10,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,476.25,NA,2025-02-10,2025-02-12,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,131.25,131.25,2025-02-10,2025-02-12,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,476.25,NA,2025-02-16,2025-02-18,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,131.25,131.25,2025-02-16,2025-02-18,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,487.5,NA,2025-01-15,2025-01-18,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,131.25,131.25,2025-01-15,2025-01-18,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,476.25,NA,2025-02-02,2025-02-04,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,131.25,131.25,2025-02-02,2025-02-04,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,476.25,NA,2025-02-05,2025-02-06,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,131.25,131.25,2025-02-05,2025-02-06,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,487.5,NA,2025-01-25,2025-01-30,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,131.25,131.25,2025-01-25,2025-01-30,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,495,NA,2025-01-18,2025-01-23,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Vio.com,NA,131.25,2025-01-18,2025-01-23,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,465,NA,2024-12-28,2025-01-01,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,120,120,2024-12-28,2025-01-01,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,487.5,NA,2025-02-09,2025-02-14,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,131.25,131.25,2025-02-09,2025-02-14,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,401.25,NA,2024-12-20,2024-12-21,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,123.75,123.75,2024-12-20,2024-12-21,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,476.25,NA,2025-01-04,2025-01-05,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,165,165,2025-01-04,2025-01-05,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,487.5,NA,2025-02-11,2025-02-16,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,131.25,131.25,2025-02-11,2025-02-16,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,442.5,NA,2024-12-22,2024-12-26,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,120,120,2024-12-22,2024-12-26,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,476.25,NA,2025-02-09,2025-02-10,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,131.25,131.25,2025-02-09,2025-02-10,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,491.25,NA,2025-01-03,2025-01-05,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Vio.com,NA,165,2025-01-03,2025-01-05,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,495,NA,2025-01-20,2025-01-24,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,131.25,131.25,2025-01-20,2025-01-24,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,483.75,NA,2025-02-13,2025-02-17,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,131.25,131.25,2025-02-13,2025-02-17,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,491.25,NA,2025-01-21,2025-01-24,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Vio.com,NA,131.25,2025-01-21,2025-01-24,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,495,NA,2025-01-13,2025-01-17,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Vio.com,NA,131.25,2025-01-13,2025-01-17,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,476.25,NA,2025-02-17,2025-02-18,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,131.25,131.25,2025-02-17,2025-02-18,2,2.5,NA,NA,NA
+24001761,Warwick Riyadh,Agoda.com,483.75,NA,2025-01-25,2025-01-29,5,2.5,NA,NA,NA
+8470987,Al Oroba Hotel,Agoda.com,131.25,131.25,2025-01-25,2025-01-29,2,2.5,NA,NA,NA
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

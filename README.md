@@ -49,8 +49,8 @@ The dataset contains various inconsistencies, including NULL values, incorrect d
  • Seasonal demand impacts hotel pricing significantly.
 
 ### Technologies Used
-<small>
+
  • SQL Server for data cleaning and analysis.<br>
  • T-SQL Queries for transformation and insights extraction.<br>
- • Power BI for interactive dashboard visualization.<small>
+ • Power BI for interactive dashboard visualization.
  
